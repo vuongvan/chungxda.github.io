@@ -527,13 +527,15 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="KOREAN TV",KBS World (Korean)
 http://hls222.dszbdq.cn/kbs.php?id=world
 #EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/ch_joy.png" group-title="KOREAN TV",KBS Joy
-http://hls222.dszbdq.cn/kbs.php?id=joy
+http://140.238.16.178:9876/stream/channelid/844092932
 #EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/ch_drama.png" group-title="KOREAN TV",KBS Drama
-http://hls222.dszbdq.cn/kbs.php?id=drama
+http://140.238.16.178:9876/stream/channelid/1763530638
 #EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/ch_w.png" group-title="KOREAN TV",KBS W
-http://hls222.dszbdq.cn/kbs.php?id=w
+http://140.238.16.178:9876/stream/channelid/1940797738
 #EXTINF:-1 tvg-logo="https://news.kbs.co.kr/resources/images/v1/common/logo-txt-24news.png" group-title="KOREAN TV",KBS 24 뉴스
 http://hls222.dszbdq.cn/kbs.php?id=24
+#EXTINF:-1 tvg-logo="https://www.yonhapnewstv.co.kr/asset/img/common/img_logo_yhntv_navy.png" group-title="KOREAN TV",연합뉴스TV
+http://140.238.16.178:9876/stream/channelid/1089197037
 #EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/ch_kids.png" group-title="KOREAN TV", KBS Kids
 http://hls222.dszbdq.cn/kbs.php?id=kids
 #EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/ch_life.png" group-title="KOREAN TV", KBSN Life
