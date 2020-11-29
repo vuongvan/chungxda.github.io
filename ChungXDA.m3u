@@ -519,9 +519,9 @@ http://gg.gg/WorkpointTV
 #EXTINF:-1 tvg-logo="http://www.arirang.com/images/index/arirang.png" group-title="KOREAN TV",Arirang Korea (아리랑 TV)
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/KBS1.kr.png" group-title="KOREAN TV",KBS 1
-http://hls222.dszbdq.cn/kbs.php?id=1
+http://211.203.0.244:9981/stream/channelid/1387682352
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/KBS2.kr.png" group-title="KOREAN TV",KBS 2
-http://hls222.dszbdq.cn/kbs.php?id=2
+http://211.203.0.244:9981/stream/channelid/430506903
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="KOREAN TV",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="KOREAN TV",KBS World (Korean)
@@ -536,23 +536,22 @@ http://hls222.dszbdq.cn/kbs.php?id=w
 http://hls222.dszbdq.cn/kbs.php?id=24
 #EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/ch_kids.png" group-title="KOREAN TV", KBS Kids
 http://hls222.dszbdq.cn/kbs.php?id=kids
-#EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/ch_life.png" group-title="KOREAN TV", KBS Life
-http://hls222.dszbdq.cn/kbs.php?id=life
-#EXTINF:-1 tvg-logo="https://static.epg.best/kr/KBSNLife.kr.png" group-title="KOREAN TV", KBSN Life
+#EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/ch_life.png" group-title="KOREAN TV", KBSN Life
 http://140.238.16.178:9876/stream/channelid/1299622285
+#EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/common/kbsn_plus.png" group-title="KOREAN TV", KBSN PLUS
+http://140.238.16.178:9876/stream/channelid/860060324
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="KOREAN TV",MBC
-http://gg.gg/MBCOnAir
+http://211.203.0.244:9981/stream/channelid/1574501058
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="KOREAN TV",YTN
 http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/YTNScience.kr.png" group-title="KOREAN TV",YTN Science
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.polaristv.co.kr/wp-content/uploads/2019/03/logo.png" group-title="KOREAN TV",Polaris TV (폴라리스TV)
 http://140.238.16.178:9876/stream/channelid/494229570
-#EXTINF:-1 tvg-logo="http://chungxda.github.io/logo/MBC_M.png" group-title="KOREAN TV",MBC M (MBC 엠, 엠비씨 엠)
-http://140.238.16.178:9876/stream/channelid/73752938
+#EXTINF:-1 tvg-logo="http://chungxda.github.io/logo/MBC_M.png" group-title="KOREAN TV",MBC M
+http://140.238.16.178:9876/stream/channelid/1434675793
 #EXTINF:-1 tvg-logo="http://www.billiardstv.co.kr/image/common/sports1_logo.png" group-title="KOREAN TV",BilliardsTV (빌리어즈TV)
 http://140.238.16.178:9876/stream/channelid/1075927442
-
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/TVChosun.kr.png" group-title="KOREAN TV", TV CHOSUN 소개
 http://222.234.50.24:9981/stream/channelid/1139023168
 #EXTINF:-1 tvg-logo="https://www.mbcplus.com/web/images/common/comm_channel07_04.png"  group-title="KOREAN TV",MBC Drama
@@ -570,23 +569,25 @@ https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/c
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/SBSPlus.kr.png" group-title="KOREAN TV",SBS PLUS
 http://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/SBSPlus.kr.png" group-title="KOREAN TV",SBS Plus HD (SBS플러스)
-http://live2.abcdsky.com:1935/live/SBSPLUS/playlist.m3u8
+http://140.238.16.178:9876/stream/channelid/1434675793
 #EXTINF:-1 tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/skylife/72c273c990926163324.png" group-title="KOREAN TV",SBS F!L UHD
 http://58.229.38.125:9981/stream/channelid/1998526477
+#EXTINF:-1 tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/PG/2017/09/11/PG65719207_w1280_h720.jpg" group-title="KOREAN TV", SBS fun E
+http://140.238.16.178:9876/stream/channelid/2106609578
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/SBSMTV.kr.png" group-title="KOREAN TV",SBS MTV
 http://222.239.213.20:9981/stream/channelid/464614568
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/SBSGolf.kr.png" group-title="KOREAN TV",SBS Golf
-http://gg.gg/SBSGolf
+http://211.203.0.244:9981/stream/channelid/28955057
 #EXTINF:-1 tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/26.png" group-title="KOREAN TV", OBS HD
-http://222.239.213.20:9981/stream/channelid/1796976963
+http://140.238.16.178:9876/stream/channelid/1778702694
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/JTBC.kr.png" group-title="KOREAN TV",JTBC
-http://live2.abcdsky.com:1935/live/JTBC/playlist.m3u8
+http://140.238.16.178:9876/stream/channelid/1778702694
 #EXTINF:-1 tvg-logo="http://images.jtbc.joins.com/jtbc2/logo.png" group-title="KOREAN TV",JTBC 2
 http://140.238.16.178:9876/stream/channelid/990220797
 #EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C22041.png" group-title="KOREAN TV",JTBC4 HD
-http://222.234.50.24:9981/stream/channelid/734889899
+http://140.238.16.178:9876/stream/channelid/1533193690
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/JTBCGolf.kr.png" group-title="KOREAN TV",JTBC Golf
-http://gg.gg/JTBCGolf
+http://211.203.0.244:9981/stream/channelid/1533445258
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/tvN.kr.png" group-title="KOREAN TV",tVN
 http://140.238.16.178:9876/stream/channelid/333743197
 #EXTINF:-1 tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/desktop/images/header/btn_tving_siblings_xtvn.png " group-title="KOREAN TV",XtvN
@@ -604,41 +605,42 @@ http://gg.gg/UHDDreamTV
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/UXN.kr.png" group-title="KOREAN TV",UXN
 http://211.245.55.198:1024/m2u/239.192.81.38:49220
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/OCN.kr.png" group-title="KOREAN TV",OCN
-http://gg.gg/OCNChungXDA
+http://211.203.0.244:9981/stream/channelid/454479581
 #EXTINF:-1 tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/desktop/images/header/btn_tving_siblings_ocnmovies.png"  group-title="KOREAN TV",OCN Movies
-http://gg.gg/OCNmoviesChungXDA
+http://211.203.0.244:9981/stream/channelid/87207488
 #EXTINF:-1 tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/desktop/images/header/btn_tving_siblings_ocnthrills.png"  group-title="KOREAN TV",OCN Thrills
-http://gg.gg/OCNThrillsChungXDA
+http://211.203.0.244:9981/stream/channelid/1406402677
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/Screen.kr.png" group-title="KOREAN TV",Screen 4K
-http://gg.gg/Screen4KChungXDA
+http://211.203.0.244:9981/stream/channelid/1137398330
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/ChannelA.kr.png" group-title="KOREAN TV",Channel A (채널A)
+http://140.238.16.178:9876/stream/channelid/498342416
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/ChannelChina.kr.png" group-title="KOREAN TV",Channel China (채널차이나)
+http://140.238.16.178:9876/stream/channelid/955752588
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/AsiaN.kr.png" group-title="KOREAN TV",Asia N
+http://211.245.55.198:1024/m2u/239.192.64.9:49220
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/ChannelW.kr.png" group-title="KOREAN TV",ChannelW (채널W )
+http://140.238.16.178:9876/stream/channelid/1570611993
+#EXTINF:-1 tvg-id="" tvg-logo="https://diatv.cjenm.com/resources/eco/images/main/logo.png" group-title="KOREAN TV",DIA TV
+http://140.238.16.178:9876/stream/channelid/495545642
 #EXTINF:-1 tvg-logo="https://www.spotv.net/images/onair_spotv.png" group-title="KOREAN TV",SPOTV
-http://gg.gg/SPOTVChungXDA
-#EXTINF:-1 tvg-logo="https://www.spotv.net/images/onair_spotv_2.png" group-title="KOREAN TV" ,SPOTV
-http://140.238.16.178:9876/stream/channelid/1180663980
+http://211.203.0.244:9981/stream/channelid/32768418
+#EXTINF:-1 tvg-logo="https://www.spotv.net/images/onair_spotv_2.png" group-title="KOREAN TV" ,SPOTV 2
+http://211.203.0.244:9981/stream/channelid/784633781
 #EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/ch_sports.png" group-title="KOREAN TV",KBSN SPORTS
-http://gg.gg/KBSNSPORTS
+http://211.203.0.244:9981/stream/channelid/1874916628
 #EXTINF:-1 tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/fa5f101981105100902.png" group-title="KOREAN TV",SBS SPORTS
-http://gg.gg/SBSSPORTS
+http://211.203.0.244:9981/stream/channelid/1821813903
 #EXTINF:-1 tvg-logo="https://www.mbcplus.com/web/images/common/comm_channel07_02.png" group-title="KOREAN TV",MBC SPORTS+
-http://gg.gg/MBCSPORTSPLUS
+http://211.203.0.244:9981/stream/channelid/492920879
 #EXTINF:-1 tvg-logo="https://www.spotv.net/images/onair_spotvgolf&health.png" group-title="KOREAN TV",SPOTV Golf & Health
-http://gg.gg/SPOTVGolf-Health
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MBC_M_logo.svg/330px-MBC_M_logo.svg.png" group-title="KOREAN TV",MBC M
-http://211.245.55.198:1024/m2u/239.192.53.4:49220
-#EXTINF:-1 tvg-logo="https://static.epg.best/kr/Mnet.kr.png" group-title="KOREAN TV",M-NET
-http://live2.abcdsky.com:1935/live/MNET/playlist.m3u8
+http://140.238.16.178:9876/stream/channelid/660845242
 #EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01142.png" group-title="KOREAN TV",On Style HD
 http://211.178.72.29:9981/stream/channelid/96115939
 #EXTINF:-1 tvg-logo="https://www.aniplustv.com/img/logo.png" group-title="KOREAN TV", ANIPLUS (애니플러스)
 http://live2.abcdsky.com:1935/live/ANIPLUS/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/bi/f636869706747984935.png" group-title="KOREAN TV", TOONIVERSE
 http://live2.abcdsky.com:1935/live/TOONIVERSE/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/ChannelA.kr.png" group-title="KOREAN TV",Channel A (채널A)
-http://59.28.86.246:9981/stream/channelid/18
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/ChannelChina.kr.png" group-title="KOREAN TV",Channel China (채널차이나)
-http://211.245.55.198:1024/m2u/239.192.64.9:49220
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/AsiaN.kr.png" group-title="KOREAN TV",Asia N
-http://211.245.55.198:1024/m2u/239.192.64.9:49220
+
 
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HONG KONG",翡翠台                  
 http://61.238.6.49:8000/bysid/1
