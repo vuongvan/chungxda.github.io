@@ -641,9 +641,6 @@ http://211.203.0.244:9981/stream/channelid/492920879
 #EXTINF:-1 tvg-logo="https://www.spotv.net/images/onair_spotvgolf&health.png" group-title="KOREAN TV",SPOTV Golf & Health
 http://140.238.16.178:9876/stream/channelid/660845242
 
-
-
-
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HONG KONG",翡翠台                  
 http://61.238.6.49:8000/bysid/1
 #EXTINF:-1 tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HONG KONG",J2台                  
