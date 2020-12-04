@@ -188,12 +188,18 @@ http://livecdn.fptplay.net/hda/htv9hd_hls.smil/chunklist_b2500000.m3u8
 http://livecdn.fptplay.net/hda/htvcthuanviet_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvc_thuan_viet_hd" group-title="HTVC" tvg-logo="http://htvc.vn/uploads/channel/2017/02/20/9667644-9189649-htvc-th.png",HTVC Thuần Việt HD
 http://livecdn.fptplay.net/hda/htvcthuanviethd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="htvc_phu_nu" group-title="HTVC" tvg-logo="http://htvc.vn/uploads/channel/2016/10/20/425058-logo-phunu-fina.png",HTVC Phụ Nữ
+#EXTINF:-1 tvg-id="htvc_phu_nu" group-title="HTVC" tvg-logo="http://htvc.vn/uploads/channel/2016/10/20/425058-logo-phunu-fina.png",HTVC Phụ Nữ | FPT Play
 http://livecdn.fptplay.net/hda/htvcphunu_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="htvc_phim_hd" group-title="HTVC" tvg-logo="http://htvc.vn/uploads/channel/2017/04/10/563560-logo-kenh-phim-.png",HTVC Phim
+#EXTINF:-1 tvg-id="htvc_phu_nu" group-title="HTVC" tvg-logo="http://htvc.vn/uploads/channel/2016/10/20/425058-logo-phunu-fina.png",HTVC Phụ Nữ | VieON
+http://gg.gg/HTVCPhuNuVieON
+#EXTINF:-1 tvg-id="htvc_phim_hd" group-title="HTVC" tvg-logo="http://htvc.vn/uploads/channel/2017/04/10/563560-logo-kenh-phim-.png",HTVC Phim | FPT Play
 http://livecdn.fptplay.net/hda/htvcmoviehd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="htvc_ca_nhac" group-title="HTVC" tvg-logo="http://htvc.vn/uploads/channel/2017/04/10/2028200-ca-nhac-01.png",HTVC Ca Nhạc
+#EXTINF:-1 tvg-id="htvc_phim_hd" group-title="HTVC" tvg-logo="http://htvc.vn/uploads/channel/2017/04/10/563560-logo-kenh-phim-.png",HTVC Phim | VieON
+http://gg.gg/HTVCPhimVieON
+#EXTINF:-1 tvg-id="htvc_ca_nhac" group-title="HTVC" tvg-logo="http://htvc.vn/uploads/channel/2017/04/10/2028200-ca-nhac-01.png",HTVC Ca Nhạc | FPT Play
 http://livecdn.fptplay.net/sdb/htvcmusic_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="htvc_ca_nhac" group-title="HTVC" tvg-logo="http://htvc.vn/uploads/channel/2017/04/10/2028200-ca-nhac-01.png",HTVC Ca Nhạc | VieON
+http://gg.gg/HTVCaNhacVieON
 #EXTINF:-1 tvg-id="htvc_du_lich_cuoc_song" group-title="HTVC" tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/9681507-logo-htvc-dulic.png",HTVC Du Lịch & Cuộc Sống
 http://livecdn.fptplay.net/hda/htvcdulich_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvc_gia_dinh" group-title="HTVC" tvg-logo="http://htvc.vn/uploads/channel/2018/06/06/3590945-logo-htvc-gia-d.png",HTVC Gia Đình
