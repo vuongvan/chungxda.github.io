@@ -206,6 +206,8 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/chunks.m
 http://gg.gg/HTVCThuanVietHDVieON
 #EXTINF:-1 tvg-id="htvc_phu_nu" group-title="HTVC" tvg-logo="http://htvc.vn/uploads/channel/2016/10/20/425058-logo-phunu-fina.png",HTVC Phụ Nữ | FPT Play
 http://livecdn.fptplay.net/hda/htvcphunu_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="htvc_phu_nu" group-title="HTVC" tvg-logo="http://htvc.vn/uploads/channel/2016/10/20/425058-logo-phunu-fina.png",HTVC Phụ Nữ | HPlus
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="htvc_phu_nu" group-title="HTVC" tvg-logo="http://htvc.vn/uploads/channel/2016/10/20/425058-logo-phunu-fina.png",HTVC Phụ Nữ | VieON
 http://gg.gg/HTVCPhuNuVieON
 #EXTINF:-1 tvg-id="htvc_phim_hd" group-title="HTVC" tvg-logo="http://htvc.vn/uploads/channel/2017/04/10/563560-logo-kenh-phim-.png",HTVC Phim | FPT Play
