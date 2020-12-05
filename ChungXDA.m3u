@@ -174,11 +174,11 @@ http://gg.gg/SCTV22
 http://gg.gg/btv5ssport3
 #EXTINF:-1 tvg-id="htv1" group-title="HTVC" tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/1586931-logo-htv1a.png", HTV1
 http://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="htv2" group-title="HTVC" tvg-logo="http://chungxda.github.io/logo/logo/HTV2_logo.png", HTV2 - Vie Channel | FPT Play
+#EXTINF:-1 tvg-id="htv2" group-title="HTVC" tvg-logo="http://chungxda.github.io/logo/HTV2_logo.png", HTV2 - Vie Channel | FPT Play
 http://livecdn.fptplay.net/hda/htv2hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="htv2" group-title="HTVC" tvg-logo="http://chungxda.github.io/logo/logo/HTV2_logo.png", HTV2 - Vie Channel | VieON
+#EXTINF:-1 tvg-id="htv2" group-title="HTVC" tvg-logo="http://chungxda.github.io/logo/HTV2_logo.png", HTV2 - Vie Channel | VieON
 http://gg.gg/HTV2VieChannelVieON
-#EXTINF:-1 tvg-id="htv2" group-title="HTVC" tvg-logo="http://chungxda.github.io/logo/logo/HTV2_logo.png", HTV2 - Vie Channel | HPlus
+#EXTINF:-1 tvg-id="htv2" group-title="HTVC" tvg-logo="http://chungxda.github.io/logo/HTV2_logo.png", HTV2 - Vie Channel | HPlus
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="HTVC" tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/7068413-logo-htv3a.png", HTV3
 http://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
@@ -241,8 +241,8 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESH
 #EXTINF:-1 tvg-id="htvc_fbnc" group-title="HTVC" tvg-logo="http://img.hplus.com.vn/226x127/poster/2018/06/05/906484-FBNC.png",FBNC
 http://livecdn.fptplay.net/sdc/fbnchd_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="PHIM" tvg-logo="https://mytv.com.vn/upload/channel/phpky6LWv_5d765a037252a.png",K+PM
-http://chungxda.github.io/m3u8/KPMHD.m3u8
+#EXTINF:-1 group-title="PHIM" tvg-logo="http://chungxda.github.io/logo/logokplus.png",K+ (AM : K+1 | PM : K+PM)
+http://chungxda.github.io/m3u8/kplushd.m3u8
 #EXTINF:-1 tvg-id="foxhd" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/159/493/1584929321352.png",Fox HD | FPT Play
 http://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="foxhd" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/159/493/1584929321352.png",Fox HD | HPlus
