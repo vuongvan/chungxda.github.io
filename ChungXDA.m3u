@@ -4,8 +4,7 @@
 #EXTM3U url-tvg="http://gg.gg/epgmytv" tvg-shift=0 m3uautoload=4
 
 #EXTINF:-1 group-title="VTVCabtest" tvg-logo="http://truyenhinhanvien.info/images/channel/phimviet.png",VTVCab2-Phim Việt
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT/VTVCAB2-SD-ABR/HTV-ABR/VTVCAB2-SD-720p/playlist.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYW1lIjoiMTQuMjM1LjE3Ni4yMzIiLCJlbWFpbCI6ImVtYWlsQGV4YW1wbGUuY29tIiwicGhvbmUiOiIwOTg3NjU0MzIxIiwiYXBwX2NvZGUiOiJodHZjIiwiY2hhbm5lbF9jb2RlIjoiVlRWMSIsImFwcF91c2VyX2lkIjoiMTQuMjM1LjE3Ni4yMzIiLCJpYXQiOjE2MDcxNTc5NzF9.GnvFHiB1gBuO7OtB4CCAJkmNDpJlF629DG6kSaVaSuDSMi54uHZP_MWSNm0oymK3Y_C1XZUEnK9mJ8kbn9w3gICJx6G9uM6PaASbqonzjewYLIzMLNUZiHSPnHvn5X4e9BhF38buo2hCAPdnB2WfvVITqRRIRI6WB0wkMXtpBFD17D10Kj5xZQszl4WElwZyJIQ4JIHRem_MnOCAAfahnjGbq0WXE1r4VmvNklKyUONgv_pATvobfR3XzT8Hh3th7d6qv2MFTbZf8STOy24Zv6EWNNCWWM8foZWLEnUT1H0WEYCk_Nk8qClA0Calt9y08M86YLJAMZxL4Hzgh45xhMV-3HlRWV4lAGE_Q4MEQsdNN_ylAHaRJXNbYH-mic0Hzp4OPrB5q0IQBIYtMnWg3mNigBBjIRMBYcBeyawdTjn4bi8Q3u7-aaFX_J6CKnwCP94ymD8kJfuPrAPZeQqPC_s-5jAOdCDolV6p6NLCWqZFMMQag--1iPyJ6WxgU_LT_OtuKjvY_JzEgrz0cH9eiq24JXHuh6unazOZda1dyNyZmH8RelCxciV1oSmxn9JOD-O08XaD7d5akGMM-Py57sGMf3-DIgOpWgCj25RcqfsLFO5dPt7_L-MGO0XIINYuDtiIfgnSXlLvkSckZWY-dGyKtY06487gX8aofDGBPhA
- 
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BBCEARTH-HD-ABR/HTV-ABR/BBCEARTH-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/1.png",VTV1
 http://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/2.png",VTV2
@@ -362,8 +361,10 @@ http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://mytv.com.vn/upload/channel/179.png" group-title="KIDS & CARTOON", CARTOON NETWORK ASIA
 http://livecdn.fptplay.net/qnetlive/cartoonnetworkhd_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="KIDS & CARTOON",Baby First
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="KIDS & CARTOON",Baby First | FPT PLay
 http://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="KIDS & CARTOON",Baby First | HPlus
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BABYFIRST-SD-720p/chunks.m3u8
 #EXTINF:-1 tvg-id="boomerang" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/102.png" group-title="KIDS & CARTOON",Boomerang
 http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="davinci" tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="KIDS & CARTOON",Da Vinci Kids Learning | FPT Play
