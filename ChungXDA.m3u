@@ -141,7 +141,7 @@ http://gg.gg/SCTV7
 #EXTINF:-1 tvg-id="" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-UXe14uvM6eA/VpxAuT-C_vI/AAAAAAAAASo/d0m-l9-jUtQ/h120/sctv8.png",SCTV 8 HD - VITV Kinh Tế
 http://gg.gg/SCTV8
 #EXTINF:-1 tvg-id="sctv9" group-title="SCTV" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944648887.png",SCTV 9 HD - Phim Châu Á
-http://chungxda.github.io/m3u8/SCTV/SCTV9HD.m3u8
+http://gg.gg/SCTV9HDPhimChauA
 #EXTINF:-1 tvg-id="sctv10" group-title="SCTV" tvg-logo="https://mytv.com.vn/upload/channel/17.png",SCTV10 - VTV HUYNDAI
 http://gg.gg/SCTVHUYNDAI
 #EXTINF:-1 tvg-id="sctv11_tv_star" group-title="SCTV" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944657099.png",SCTV 11 HD - TVStar
