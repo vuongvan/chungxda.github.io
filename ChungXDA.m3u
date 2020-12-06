@@ -124,23 +124,23 @@ http://livecdn.fptplay.net/sdc/vtc14_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 tvg-id="vtc16" group-title="VTC" tvg-logo="https://i.imgur.com/amaDGnw.jpg",VTC16
 http://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="sctv1" group-title="SCTV" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV1HD.png",SCTV 1 HD - Hài
+#EXTINF:-1 tvg-id="sctv1" group-title="SCTV" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV1HD.png",SCTV1 HD - Hài
 http://chungxda.github.io/m3u8/SCTV/SCTV1HD.m3u8
 #EXTINF:-1 tvg-id="sctv2_amc" group-title="SCTV"  tvg-logo="https://chungxda.github.io/logo/SCTV2.png",SCTV2 - AMC TV
 http://chungxda.github.io/m3u8/SCTV/SCTV2.m3u8
-#EXTINF:-1 tvg-id="sctv3_see_tv" group-title="SCTV" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV3.png",SCTV 3 HD - SEE TV
+#EXTINF:-1 tvg-id="sctv3_see_tv" group-title="SCTV" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV3.png",SCTV3 HD - SEE TV
 http://chungxda.github.io/m3u8/SCTV/SCTV3HD.m3u8
-#EXTINF:-1 tvg-id="sctv4" group-title="SCTV" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV4HD.png",SCTV 4 HD - Giải Trí Tổng Hợp
+#EXTINF:-1 tvg-id="sctv4" group-title="SCTV" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV4HD.png",SCTV4 HD - Giải Trí Tổng Hợp
 http://chungxda.github.io/m3u8/SCTV/SCTV4.m3u8
-#EXTINF:-1 tvg-id="" group-title="SCTV" tvg-logo="https://vignette.wikia.nocookie.net/logos/images/7/70/SCJ_Life_On.png/revision/latest?cb=20200409034405&path-prefix=vi", SCTV5 - SCJ Online
-http://gg.gg/SCTV5SD
-#EXTINF:-1 tvg-id="sctv6_hd" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-aRJdZbAiOQA/VpxAuVmP4fI/AAAAAAAAASk/LuG4KBWvhnQ/h120/sctv6.png",SCTV 6 HD - SNTV Thế Hệ Mới
-http://gg.gg/SCTV6SNTV
-#EXTINF:-1 tvg-id="sctv7_hd" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-SCFBwogpr2Y/VpxAuIsVb6I/AAAAAAAAASc/Yw5wPfeKj6Y/h120/sctv7.png",SCTV 7 HD - SHOW Sân Khấu
-http://gg.gg/SCTV7
-#EXTINF:-1 tvg-id="" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-UXe14uvM6eA/VpxAuT-C_vI/AAAAAAAAASo/d0m-l9-jUtQ/h120/sctv8.png",SCTV 8 HD - VITV Kinh Tế
-http://gg.gg/SCTV8
-#EXTINF:-1 tvg-id="sctv9" group-title="SCTV" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944648887.png",SCTV 9 HD - Phim Châu Á
+#EXTINF:-1 tvg-id="" group-title="SCTV" tvg-logo="https://chungxda.github.io/logo/SCJTV_Shopping.png",SCTV5 - SCJ TV Shopping (SCJ Life On)
+http://chungxda.github.io/m3u8/SCTV/SCTV5.m3u8
+#EXTINF:-1 tvg-id="sctv6_hd" group-title="SCTV" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV6.png",SCTV6 - SNTV Thế Hệ Mới
+http://chungxda.github.io/m3u8/SCTV/SCTV6.m3u8
+#EXTINF:-1 tvg-id="sctv7_hd" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-SCFBwogpr2Y/VpxAuIsVb6I/AAAAAAAAASc/Yw5wPfeKj6Y/h120/sctv7.png",SCTV7 - Sân Khấu
+http://chungxda.github.io/m3u8/SCTV/SCTV7.m3u8
+#EXTINF:-1 tvg-id="" group-title="SCTV" tvg-logo="https://chungxda.github.io/logo/VITV.png",SCTV8 - VITV Kinh Tế
+http://chungxda.github.io/m3u8/SCTV/SCTV8.m3u8
+#EXTINF:-1 tvg-id="sctv9" group-title="SCTV" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944648887.png",SCTV9 HD - Phim Châu Á
 https://chungxda.github.io/m3u8/SCTV/SCTV9HD.m3u8
 #EXTINF:-1 tvg-id="sctv10" group-title="SCTV" tvg-logo="https://mytv.com.vn/upload/channel/17.png",SCTV10 - VTV HUYNDAI
 http://gg.gg/SCTVHUYNDAI
