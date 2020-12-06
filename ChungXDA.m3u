@@ -67,7 +67,7 @@ http://gg.gg/http://gg.gg/VTVCab10SDbyChungXDA
 http://gg.gg/VGSshop
 #EXTINF:-1 tvg-id="vtvcab12_style_tv" group-title="VTVCab" tvg-logo="https://imgstatic.vtvcab.vn/logos/STYLE_TV_HD_M.png",VTVCab12 - Style TV
 http://gg.gg/VTVCab12StyleTV
-#EXTINF:-1 group-title="VTVCab" tvg-logo="https://vtvhyundai.vn/resource/img/logo.png",VTVCab13 - VTV Hyundai Homeshopping 
+#EXTINF:-1 group-title="VTVCab" tvg-logo="http://vtvhyundai.vn/resource/img/logo.png",VTVCab13 - VTV Hyundai Homeshopping 
 https://livecdn.fptplay.net/sda/vtvhomeshopping_1000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtvcab15" group-title="VTVCab" tvg-logo="https://imgstatic.vtvcab.vn/logos/M_CHANNEL_M.png",VTVCab15 - UM Channel
 http://gg.gg/VTVCab15UMChannel
@@ -142,7 +142,7 @@ http://chungxda.github.io/m3u8/SCTV/SCTV7.m3u8
 http://chungxda.github.io/m3u8/SCTV/SCTV8.m3u8
 #EXTINF:-1 tvg-id="sctv9" group-title="SCTV" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944648887.png",SCTV9 HD - Phim Châu Á
 http://chungxda.github.io/m3u8/SCTV/SCTV9HD.m3u8
-#EXTINF:-1 tvg-id="sctv10" group-title="SCTV" tvg-logo="https://vtvhyundai.vn/resource/img/logo.png",SCTV10 - VTV HYUNDAI HOME SHOPPING
+#EXTINF:-1 tvg-id="sctv10" group-title="SCTV" tvg-logo="http://vtvhyundai.vn/resource/img/logo.png",SCTV10 - VTV HYUNDAI HOME SHOPPING
 http://chungxda.github.io/m3u8/SCTV/SCTV10.m3u8
 #EXTINF:-1 tvg-id="sctv11_tv_star" group-title="SCTV" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV11HD.png",SCTV11 HD - STAR (Văn Hoá Nghệ Thuật)
 http://chungxda.github.io/m3u8/SCTV/SCTV11HD.m3u8
@@ -778,9 +778,9 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_p
 http://a3569457567-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw20000000/playlist.m3u8?utcstart=1572789600&version=2
 #EXTINF:-1 group-title="UHD |4K" tvg-logo="https://www.thematv.com/images/news/love-nature-4k.png",LOVE NATURE 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
-#EXTINF:-1 group-title="UHD |4K",Ultra HD Cinema 4K
+#EXTINF:-1 group-title="UHD |4K"tvg-logo="https://www.thematv.com/images/news/love-nature-4k.png",Ultra HD Cinema 4K
 http://dmitry-tv.my1.ru/his/zabava/04/CH_ULTRAHDCINEMA_HLSUHD.m3u8
-#EXTINF:-1 group-title="UHD |4K" tvg-logo="http://static.epg.best/us/OlympicChannel.us.png",Olympic Channel UHD
+#EXTINF:-1 group-title="UHD |4K" tvg-logo="https://i.imgur.com/RhfndP1.png",Olympic Channel UHD
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="UHD |4K" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-16-090017.jpg",EUROSPORT2 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-7200
