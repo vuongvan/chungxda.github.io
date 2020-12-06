@@ -144,14 +144,14 @@ http://chungxda.github.io/m3u8/SCTV/SCTV8.m3u8
 http://chungxda.github.io/m3u8/SCTV/SCTV9HD.m3u8
 #EXTINF:-1 tvg-id="sctv10" group-title="SCTV" tvg-logo="https://vtvhyundai.vn/resource/img/logo.png",SCTV10 - VTV HYUNDAI HOME SHOPPING
 http://chungxda.github.io/m3u8/SCTV/SCTV10.m3u8
-#EXTINF:-1 tvg-id="sctv11_tv_star" group-title="SCTV" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV11HD.png",SCTV 11 HD - TVStar
+#EXTINF:-1 tvg-id="sctv11_tv_star" group-title="SCTV" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV11HD.png",SCTV11 HD - STAR (Văn Hoá Nghệ Thuật)
 http://chungxda.github.io/m3u8/SCTV/SCTV11HD.m3u8
-#EXTINF:-1 tvg-id="sctv12" group-title="SCTV" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944663204.png", SCTV12 HD - Du Lịch
-http://gg.gg/SCTV12HD
-#EXTINF:-1 tvg-id="sctv13_lady_tv" group-title="SCTV" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944668637.png", SCTV13 HD - Lady TV
-http://gg.gg/SCTV13
-#EXTINF:-1 tvg-id="sctv14_kenh_phim_viet" group-title="SCTV" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944675267.png", SCTV14 HD - Kênh Phim Việt
-http://gg.gg/SCTV14HD
+#EXTINF:-1 tvg-id="sctv12" group-title="SCTV" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV12HD.png",SCTV12 HD - Du Lịch
+http://chungxda.github.io/m3u8/SCTV/SCTV12HD.m3u8
+#EXTINF:-1 tvg-id="sctv13_lady_tv" group-title="SCTV" tvg-logo="https://chungxda.github.io/logo/LadyTV_SCTV13.png",SCTV13 - Lady TV (Phụ nữ & Gia đình)
+http://chungxda.github.io/m3u8/SCTV/SCTV13.m3u8
+#EXTINF:-1 tvg-id="sctv14_kenh_phim_viet" group-title="SCTV" tvg-logo="https://chungxda.github.io/logo/SCTV14.png",SCTV 14 HD - Phim Việt
+http://chungxda.github.io/m3u8/SCTV/SCTV14.m3u8
 #EXTINF:-1 tvg-id="sctv15_s_sport_2" group-title="SCTV" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944685164.png", SCTV15 HD - Ssport 2
 http://gg.gg/KENHSCTV15HD
 #EXTINF:-1 tvg-id="sctv16" group-title="SCTV" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV16.png", SCTV16 HD - Phim Nước Ngoài
