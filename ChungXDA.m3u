@@ -14,9 +14,9 @@ http://livecdn.fptplay.net/hda/vtv4_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/5.png",VTV5
 http://livecdn.fptplay.net/hda/vtv5hd_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="VTV5 Tay Nam Bo-VTV" group-title="VTV" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/7__.png" ,VTV5 Tây Nam Bộ  | VTVDigital
-http://gg.gg/vtv5tnb
+http://chungxda.github.io/m3u8/VTVGo/vtv5taynambo.m3u8
 #EXTINF:0 tvg-id="VTV5 Tay Nguyen-VTV" group-title="VTV" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/163__.png",VTV5 Tây Nguyên  | VTVDigital
-http://gg.gg/vtv5tn
+http://chungxda.github.io/m3u8/VTVGo/vtv5taynguyen.m3u8
 #EXTINF:-1 tvg-id="vtv61hd" tvg-name="VTV6 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/6.png",VTV6
 http://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/phpSBRjtQ_5d75c0b375f97.png",VTV7
