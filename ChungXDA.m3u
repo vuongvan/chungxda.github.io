@@ -386,7 +386,7 @@ https://livecdn.fptplay.net/hda/btv4hd_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://rsstv.gviet.vn/sctv/159/130/1581298778597.png",BTV9 Bình Dương - An Viên TV (Bchannel) | FPT Play
 https://livecdn.fptplay.net/sdc/btv9_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://rsstv.gviet.vn/sctv/159/130/1581298778597.png",BTV9 Bình Dương - An Viên TV (Bchannel) | VieON
-http://gg.gg/BTV9VieON
+http://chungxda.github.io/m3u8/VieON/AnVienTV.m3u8
 #EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://i.upanh.org/2020/08/22/NCM_BTV10_logo.png",BTV10 - NCM (Truyền hình Bình Dương)
 https://livecdn.fptplay.net/sda/ncm_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="VIET NAM TV" tvg-logo="http://img.btv.org.vn:81/upload/vod/25032020/1585128658_btv11.png",BTV11 (Truyền hình Bình Dương)
