@@ -144,8 +144,8 @@ http://chungxda.github.io/m3u8/SCTV/SCTV8.m3u8
 http://chungxda.github.io/m3u8/SCTV/SCTV9HD.m3u8
 #EXTINF:-1 tvg-id="sctv10" group-title="SCTV" tvg-logo="https://vtvhyundai.vn/resource/img/logo.png",SCTV10 - VTV HYUNDAI HOME SHOPPING
 http://chungxda.github.io/m3u8/SCTV/SCTV10.m3u8
-#EXTINF:-1 tvg-id="sctv11_tv_star" group-title="SCTV" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944657099.png",SCTV 11 HD - TVStar
-http://gg.gg/SCTV11HD
+#EXTINF:-1 tvg-id="sctv11_tv_star" group-title="SCTV" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV11HD.png",SCTV 11 HD - TVStar
+http://chungxda.github.io/m3u8/SCTV/SCTV11HD.m3u8
 #EXTINF:-1 tvg-id="sctv12" group-title="SCTV" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944663204.png", SCTV12 HD - Du Lịch
 http://gg.gg/SCTV12HD
 #EXTINF:-1 tvg-id="sctv13_lady_tv" group-title="SCTV" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944668637.png", SCTV13 HD - Lady TV
