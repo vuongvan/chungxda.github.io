@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://gg.gg/epgchungxda" tvg-shift=0 m3uautoload=1
-#EXTM3U url-tvg="http://iptv4u.online/schedule/epg.xml" tvg-shift=0 m3uautoload=2
+#EXTM3U url-tvg="http://megavie.live/schedule/epg.xml" tvg-shift=0 m3uautoload=2
 #EXTM3U url-tvg="http://www.vietcago.net/live/xmltv.xml" tvg-shift=0 m3uautoload=3
 #EXTM3U url-tvg="http://gg.gg/epgmytv" tvg-shift=0 m3uautoload=4
 
@@ -80,8 +80,10 @@ http://gg.gg/VTVCabFilmTV
 #EXTINF:-1 tvg-id="vtvcab20_v_family" group-title="VTVCab" tvg-logo="https://imgstatic.vtvcab.vn/logos/VFAMILY_M.png",VTVCab20 - VFamily
 http://gg.gg/VTVCabVFamily
 
-#EXTINF:-1 tvg-id="antvhd" group-title="NEWS" tvg-logo="https://mytv.com.vn/upload/channel/35.png",ANTV
+#EXTINF:-1 tvg-id="antvhd" group-title="NEWS" tvg-logo="https://mytv.com.vn/upload/channel/35.png",ANTV | FPT Play
 http://livecdn.fptplay.net/sdc/anninhtv_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="antvhd" group-title="NEWS" tvg-logo="https://mytv.com.vn/upload/channel/35.png",ANTV | VieON
+http://chungxda.github.io/m3u8/VieON/ANTVHD.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="NEWS" tvg-logo="https://mytv.com.vn/upload/channel/127.png",QPVN
 http://livecdn.fptplay.net/sdc/quocphongvnhd_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="nhandan" group-title="NEWS" tvg-logo="https://mytv.com.vn/upload/channel/128.png",NHÂN DÂN
@@ -298,7 +300,9 @@ http://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="abc_australia" tvg-logo="http://fboximages.fptplay.net.vn/Channel/iconChannel/abcaustralia_vdsl.png" group-title="QNET",ABC Australia
 http://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="kbs_world" tvg-logo="https://imgstatic.vtvcab.vn/logos/KBS_WORLD_M.png" group-title="QNET",KBS World
+#EXTINF:-1 tvg-id="kbs_world" tvg-logo="https://imgstatic.vtvcab.vn/logos/KBS_WORLD_M.png" group-title="QNET",KBS World | VieON
+http://chungxda.github.io/m3u8/VieON/KBSWorldHD.m3u8
+#EXTINF:-1 tvg-id="kbs_world" tvg-logo="https://imgstatic.vtvcab.vn/logos/KBS_WORLD_M.png" group-title="QNET",KBS World | FPT Play
 http://livecdn.fptplay.net/sdb/kbs_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="national_geographic" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484307492.png" group-title="QNET",National Geographic HD
 http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
@@ -334,7 +338,9 @@ http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="bloomberg" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/552.png?rand=978" group-title="QNET",Bloomberg TV
 https://livecdn.fptplay.net/qnetlive/bloomberg_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="tv5monde_asie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV5Monde_Logo.svg/1280px-TV5Monde_Logo.svg.png" group-title="QNET",TV5 Monde Asie
+#EXTINF:-1 tvg-id="tv5monde_asie" tvg-logo="https://mytv.com.vn/upload/channel/65.png" group-title="QNET",TV5 Monde Asie TV | VieON
+http://chungxda.github.io/m3u8/VieON/TV5MondeAsie.m3u8
+#EXTINF:-1 tvg-id="tv5monde_asie" tvg-logo="https://mytv.com.vn/upload/channel/65.png" group-title="QNET",TV5 Monde Asie ENG | FPT Play
 http://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="france_24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="QNET",France 24
 http://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
