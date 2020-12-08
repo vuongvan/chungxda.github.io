@@ -59,9 +59,9 @@ http://gg.gg/VTVCab7byChungXDA
 http://gg.gg/VTVCab8BIBITV
 #EXTINF:-1 tvg-id="vtvcab9_infotv" group-title="VTVCab" tvg-logo="https://imgstatic.vtvcab.vn/logos/INFO_TV_M.png",VTVCab9 - Info TV
 http://gg.gg/VTVCabInfoTV
-#EXTINF:-1 group-title="VTVCab" tvg-logo="https://imgstatic.vtvcab.vn/logos/D_DRAMAS_HD_M.png",VTVCab10 - Vie Dramas HD | VieON 
+#EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVCab" tvg-logo="https://imgstatic.vtvcab.vn/logos/D_DRAMAS_HD_M.png",VTVCab10 - Vie Dramas HD | VieON 
 http://chungxda.github.io/m3u8/VieON/VieDRAMASHD.m3u8
-#EXTINF:-1 group-title="VTVCab" tvg-logo="https://imgstatic.vtvcab.vn/logos/D_DRAMAS_HD_M.png",VTVCab10 - Vie Dramas SD | TV24 SCTV
+#EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVCab" tvg-logo="https://imgstatic.vtvcab.vn/logos/D_DRAMAS_HD_M.png",VTVCab10 - Vie Dramas SD | TV24 SCTV
 http://gg.gg/http://gg.gg/VTVCab10SDbyChungXDA
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://shop-media.vgsshop.vn/pub/media/logo/stores/7/vgsshopLogo.png", VTVcab11 - VGS Shop
 http://gg.gg/VGSshop
@@ -174,6 +174,7 @@ http://chungxda.github.io/m3u8/SCTV/SCTV21HD.m3u8
 http://gg.gg/SCTV22
 #EXTINF:-1 tvg-id="" group-title="SCTV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c2/BTV5.png/revision/latest?cb=20200902111930",BTV5 - Ssport 3
 http://gg.gg/btv5ssport3
+
 #EXTINF:-1 tvg-id="htv1" group-title="HTVC" tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/1586931-logo-htv1a.png", HTV1
 http://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv2" group-title="HTVC" tvg-logo="http://chungxda.github.io/logo/HTV2_logo.png", HTV2 - Vie Channel | FPT Play
@@ -243,8 +244,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESH
 #EXTINF:-1 tvg-id="htvc_fbnc" group-title="HTVC" tvg-logo="http://img.hplus.com.vn/226x127/poster/2018/06/05/906484-FBNC.png",FBNC
 http://livecdn.fptplay.net/sdc/fbnchd_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="PHIM" tvg-logo="http://chungxda.github.io/logo/logokplus.png",K+ (AM : K+1 | PM : K+PM)
-http://chungxda.github.io/m3u8/kplushd.m3u8
 #EXTINF:-1 tvg-id="foxhd" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/159/493/1584929321352.png",Fox HD | FPT Play
 http://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="foxhd" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/159/493/1584929321352.png",Fox HD | HPlus
@@ -747,8 +746,8 @@ http://203.162.235.41:16916
 #EXTINF:-1  tvg-logo="https://www.gemtvasia.com/sites/gemtvasia.com/files/logos/logo-small.png" group-title="JAPAN TV",GEM TV
 http://103.47.132.164/PLTV/88888888/224/3221227187/index.m3u8
 
-#EXTINF:-1 tvg-id="esport01" group-title="SPORT TV" tvg-logo="https://liquipedia.net/commons/images/a/aa/Epic_Prime_League.png",Epic Prime League TV
-https://livecdn.fptplay.net/schedule/esport01_4000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="esport01" group-title="SPORT TV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_esports_160697481558.png", FPT eSports Live
+http://livecdn.fptplay.net/schedule/esport01_4000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="foxsportshd" group-title="SPORT TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1024px-Fox_Sports_Logo.svg.png", FOX SPORT HD
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="foxsports2hd" group-title="SPORT TV" tvg-logo="http://img.hplus.com.vn/460x260/poster/2019/08/16/622510-foxsport2.png", FOX SPORT 2 HD
