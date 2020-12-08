@@ -154,9 +154,9 @@ http://chungxda.github.io/m3u8/SCTV/SCTV13.m3u8
 http://chungxda.github.io/m3u8/SCTV/SCTV14.m3u8
 #EXTINF:-1 tvg-id="sctv15_s_sport_2" group-title="SCTV" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944685164.png", SCTV15 HD - Ssport 2
 http://gg.gg/KENHSCTV15HD
-#EXTINF:-1 tvg-id="sctv16" group-title="SCTV" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV16.png", SCTV16 HD - Phim Nước Ngoài
-http://gg.gg/SCTV16HD
-#EXTINF:-1 tvg-id="sctv17_hd" group-title="SCTV" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944696688.png", SCTV17 HD - Ssport
+#EXTINF:-1 tvg-id="sctv16" group-title="SCTV" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV16.png",SCTV16 HD - Phim Nước Ngoài Đặc Sắc (Fox Action Movies)
+http://chungxda.github.io/m3u8/SCTV/SCTV16HD.m3u8
+#EXTINF:-1 tvg-id="sctv17_hd" group-title="SCTV" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944696688.png",SCTV17 HD - Ssport
 http://gg.gg/KENHSCTV17HD
 #EXTINF:-1 tvg-id="sctv18_hd_kenh_18" group-title="SCTV" tvg-logo="https://rsstv.gviet.vn/sctv/157/645/1566445843766.png", SCTV18 HD - Kênh 18
 http://gg.gg/SCTV18
