@@ -107,12 +107,16 @@ http://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
 http://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://i.imgur.com/YasRGy0.png",VTC6
 http://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://imgstatic.vtvcab.vn/logos/TC7_M.png",TODAYTV
+#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://imgstatic.vtvcab.vn/logos/TC7_M.png",TODAYTV SD | FPT Play
 http://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://imgstatic.vtvcab.vn/logos/TC7_M.png",TODAYTV HD | VieON
+http://chungxda.github.io/m3u8/VieON/ToDayTVHD.m3u8
 #EXTINF:-1 tvg-id="vtv8" group-title="VTC" tvg-logo="https://i.imgur.com/FVM7co8.jpg",VTC8
 http://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="http://letsviet.vn/assets/image/design/logo-letsviet.png",LET'S VIET
+#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="http://letsviet.vn/assets/image/design/logo-letsviet.png",LET'S VIET | FPT Play
 http://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="http://letsviet.vn/assets/image/design/logo-letsviet.png",LET'S VIET HD | VieON
+http://chungxda.github.io/m3u8/VieON/VTC9HD.m3u8
 #EXTINF:-1 tvg-id="vtc10hd" group-title="VTC" tvg-logo="https://imgstatic.vtvcab.vn/logos/TC10_M.png",NETVIET TV
 http://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://i.imgur.com/JARfwUf.png",VTC11
@@ -153,7 +157,7 @@ http://chungxda.github.io/m3u8/SCTV/SCTV12HD.m3u8
 #EXTINF:-1 tvg-id="sctv13_lady_tv" group-title="SCTV" tvg-logo="https://chungxda.github.io/logo/LadyTV_SCTV13.png",SCTV13 - Lady TV (Phụ nữ & Gia đình)
 http://chungxda.github.io/m3u8/SCTV/SCTV13.m3u8
 #EXTINF:-1 tvg-id="sctv14_kenh_phim_viet" group-title="SCTV" tvg-logo="https://chungxda.github.io/logo/SCTV14.png",SCTV 14 HD - Phim Việt
-http://chungxda.github.io/m3u8/SCTV/SCTV14.m3u8
+http://chungxda.github.io/m3u8/SCTV/SCTV14HD.m3u8
 #EXTINF:-1 tvg-id="sctv15_s_sport_2" group-title="SCTV" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944685164.png", SCTV15 HD - Ssport 2
 http://gg.gg/KENHSCTV15HD
 #EXTINF:-1 tvg-id="sctv16" group-title="SCTV" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV16.png",SCTV16 HD - Phim Nước Ngoài Đặc Sắc (Fox Action Movies)
