@@ -3,30 +3,48 @@
 #EXTM3U url-tvg="http://www.vietcago.net/live/xmltv.xml" tvg-shift=0 m3uautoload=3
 #EXTM3U url-tvg="http://gg.gg/epgmytv" tvg-shift=0 m3uautoload=4
 
-#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/1.png",VTV1
+#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/1.png",VTV1 | FPT Play
 http://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/2.png",VTV2
+#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/1.png",VTV1 | VieON
+http://chungxda.github.io/m3u8/VieON/VTV1.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/2.png",VTV2 | FPT Play
 http://livecdn.fptplay.net/hda/vtv2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/3.png",VTV3
+#EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/2.png",VTV2 | VieON
+http://chungxda.github.io/m3u8/VieON/VTV2.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/3.png",VTV3 | FPT Play
 http://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/4.png",VTV4
+#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/3.png",VTV3 | VieON
+http://chungxda.github.io/m3u8/VieON/VTV3.m3u8
+#EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/4.png",VTV4 | FPT Play
 http://livecdn.fptplay.net/hda/vtv4_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/5.png",VTV5
+#EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/4.png",VTV4 | VieON
+http://chungxda.github.io/m3u8/VieON/VTV4.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/5.png",VTV5 | FPT Play
 http://livecdn.fptplay.net/hda/vtv5hd_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/5.png",VTV5 | VieON
+http://chungxda.github.io/m3u8/VieON/VTV5.m3u8
 #EXTINF:-1 tvg-id="VTV5 Tay Nam Bo-VTV" group-title="VTV" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/7__.png" ,VTV5 Tây Nam Bộ  | VTVDigital
 http://chungxda.github.io/m3u8/VTVGo/vtv5taynambo.m3u8
 #EXTINF:0 tvg-id="VTV5 Tay Nguyen-VTV" group-title="VTV" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/163__.png",VTV5 Tây Nguyên  | VTVDigital
 http://chungxda.github.io/m3u8/VTVGo/vtv5taynguyen.m3u8
-#EXTINF:-1 tvg-id="vtv61hd" tvg-name="VTV6 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/6.png",VTV6
+#EXTINF:-1 tvg-id="vtv61hd" tvg-name="VTV6 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/6.png",VTV6 | FPT Play
 http://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/phpSBRjtQ_5d75c0b375f97.png",VTV7
+#EXTINF:-1 tvg-id="vtv61hd" tvg-name="VTV6 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/6.png",VTV6 | VieON
+http://chungxda.github.io/m3u8/VieON/VTV6.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/phpSBRjtQ_5d75c0b375f97.png",VTV7 | FPT Play
 http://livecdn.fptplay.net/hda/vtv7hd_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/phpSBRjtQ_5d75c0b375f97.png",VTV7 | VTVDigital
 http://gg.gg/vtv7vtvgo
-#EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/115.png",VTV8
+#EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/phpSBRjtQ_5d75c0b375f97.png",VTV7 | VieON
+http://chungxda.github.io/m3u8/VieON/VTV7.m3u8
+#EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/115.png",VTV8 | FPT Play
 http://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/117.png",VTV9
+#EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/115.png",VTV8 | VieON
+http://chungxda.github.io/m3u8/VieON/VTV8.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/117.png",VTV9 | FPT Play
 http://livecdn.fptplay.net/hda/vtv9_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/117.png",VTV9 | VieON
+http://chungxda.github.io/m3u8/VieON/VTV9.m3u8
 
 #EXTINF:-1 group-title="AVG" tvg-logo="http://chungxda.github.io/logo/hanoicab4-mov.png",Hanoicab4 - MOV
 http://gg.gg/movavg
