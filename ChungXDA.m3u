@@ -598,7 +598,7 @@ http://chungxda.github.io/m3u8/kr/KBSWorldTV.m3u8
 #EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/ch_joy.png" group-title="KOREAN TV",KBS Joy
 http://140.238.16.178:9876/stream/channelid/844092932
 #EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/ch_joy.png" group-title="KOREAN TV",KBS Joy (KBSN 조이) | KBS Original
-http://chungxda.github.io/m3u8/kr/KBSJoy.m3u8.m3u8
+http://chungxda.github.io/m3u8/kr/KBSJoy.m3u8
 #EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/ch_drama.png" group-title="KOREAN TV",KBS Drama
 http://140.238.16.178:9876/stream/channelid/1763530638
 #EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/ch_drama.png" group-title="KOREAN TV",KBS Drama (KBSN 드라마) | KBS Original
