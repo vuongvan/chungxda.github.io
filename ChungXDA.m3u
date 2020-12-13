@@ -598,7 +598,7 @@ http://140.238.16.178:9876/stream/channelid/1763530638
 #EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/ch_w.png" group-title="KOREAN TV",KBS W
 http://140.238.16.178:9876/stream/channelid/1940797738
 #EXTINF:-1 tvg-logo="https://news.kbs.co.kr/resources/images/v1/common/logo-txt-24news.png" group-title="KOREAN TV",KBS 24 뉴스
-http://hls222.dszbdq.cn/kbs.php?id=24
+http://chungxda.github.io/m3u8/kr/KBS24.m3u8
 #EXTINF:-1 tvg-logo="https://www.yonhapnewstv.co.kr/asset/img/common/img_logo_yhntv_navy.png" group-title="KOREAN TV",연합뉴스TV
 http://140.238.16.178:9876/stream/channelid/1089197037
 #EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/ch_kids.png" group-title="KOREAN TV", KBS Kids
@@ -616,7 +616,7 @@ http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.polaristv.co.kr/wp-content/uploads/2019/03/logo.png" group-title="KOREAN TV",Polaris TV (폴라리스TV)
 http://140.238.16.178:9876/stream/channelid/494229570
 #EXTINF:-1 tvg-logo="http://chungxda.github.io/logo/MBC_M.png" group-title="KOREAN TV",MBC M
-http://140.238.16.178:9876/stream/channelid/1434675793
+http://140.238.16.178:9876/stream/channelid/73752938
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Music_Makes_One_Mnet_Logo.png" group-title="KOREAN TV", Mnet
 http://140.238.16.178:9876/stream/channelid/676050914
 #EXTINF:-1 tvg-logo="http://www.billiardstv.co.kr/image/common/sports1_logo.png" group-title="KOREAN TV",BilliardsTV (빌리어즈TV)
