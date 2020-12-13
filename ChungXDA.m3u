@@ -583,36 +583,52 @@ http://gg.gg/WorkpointTV
 
 #EXTINF:-1 tvg-logo="http://www.arirang.com/images/index/arirang.png" group-title="KOREAN TV",Arirang Korea (아리랑 TV)
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/kr/KBS1.kr.png" group-title="KOREAN TV",KBS 1
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/KBS1.kr.png" group-title="KOREAN TV",KBS1 
 http://211.203.0.244:9981/stream/channelid/1387682352
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/KBS1.kr.png" group-title="KOREAN TV",KBS1 | KBS Original
+http://chungxda.github.io/m3u8/kr/KBS1.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/KBS2.kr.png" group-title="KOREAN TV",KBS 2
 http://211.203.0.244:9981/stream/channelid/430506903
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/KBS2.kr.png" group-title="KOREAN TV",KBS2 | KBS Original
+http://chungxda.github.io/m3u8/kr/KBS2.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="KOREAN TV",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="KOREAN TV",KBS World (Korean)
-http://hls222.dszbdq.cn/kbs.php?id=world
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="KOREAN TV",KBS World | KBS Original
+http://chungxda.github.io/m3u8/kr/KBSWorldTV.m3u8
 #EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/ch_joy.png" group-title="KOREAN TV",KBS Joy
 http://140.238.16.178:9876/stream/channelid/844092932
+#EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/ch_joy.png" group-title="KOREAN TV",KBS Joy (KBSN 조이) | KBS Original
+http://chungxda.github.io/m3u8/kr/KBSJoy.m3u8.m3u8
 #EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/ch_drama.png" group-title="KOREAN TV",KBS Drama
 http://140.238.16.178:9876/stream/channelid/1763530638
+#EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/ch_drama.png" group-title="KOREAN TV",KBS Drama (KBSN 드라마)| KBS Original
+http://chungxda.github.io/m3u8/kr/KBSDrama.m3u8
 #EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/ch_w.png" group-title="KOREAN TV",KBS W
 http://140.238.16.178:9876/stream/channelid/1940797738
-#EXTINF:-1 tvg-logo="https://news.kbs.co.kr/resources/images/v1/common/logo-txt-24news.png" group-title="KOREAN TV",KBS 24 뉴스
+#EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/ch_w.png" group-title="KOREAN TV",KBS W | KBS Original
+http://chungxda.github.io/m3u8/kr/KBSW.m3u8
+#EXTINF:-1 tvg-logo="https://news.kbs.co.kr/resources/images/v1/common/logo-txt-24news.png" group-title="KOREAN TV",KBS 24 뉴스 | KBS Original
 http://chungxda.github.io/m3u8/kr/KBS24.m3u8
 #EXTINF:-1 tvg-logo="https://www.yonhapnewstv.co.kr/asset/img/common/img_logo_yhntv_navy.png" group-title="KOREAN TV",연합뉴스TV
 http://140.238.16.178:9876/stream/channelid/1089197037
-#EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/ch_kids.png" group-title="KOREAN TV", KBS Kids
-http://hls222.dszbdq.cn/kbs.php?id=kids
+#EXTINF:-1 tvg-logo="http://onair.kbs.co.kr/resources/images/ico_ch/ch_t_kbskids.svg" group-title="KOREAN TV", KBS Kids | KBS Original
+http://chungxda.github.io/m3u8/kr/KBSKids.m3u8
 #EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/ch_life.png" group-title="KOREAN TV", KBSN Life
 http://140.238.16.178:9876/stream/channelid/1299622285
+#EXTINF:-1 tvg-logo="http://onair.kbs.co.kr/resources/images/ico_ch/ch_t_kbsnlife.svg" group-title="KOREAN TV", KBSN Life | KBS Original
+http://chungxda.github.io/m3u8/kr/KBSLife.m3u8
 #EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/common/kbsn_plus.png" group-title="KOREAN TV", KBSN PLUS
 http://140.238.16.178:9876/stream/channelid/860060324
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="KOREAN TV",MBC
 http://211.203.0.244:9981/stream/channelid/1574501058
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="KOREAN TV",YTN
-http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
+http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/chunklist_w445765148.m3u8
+#EXTINF:-1 tvg-logo="https://image.ytn.co.kr/ytn/replay/ch_logo_4.png" group-title="KOREAN TV",YTN dmb
+http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/chunklist_w1389588282.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/YTNScience.kr.png" group-title="KOREAN TV",YTN Science
-http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w646673757.m3u8
+#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01101.png" group-title="KOREAN TV",YTN Life
+https://slive.ytn.co.kr/weather/weather_20140419_1/chunklist_w556856077.m3u8
 #EXTINF:-1 tvg-logo="https://www.polaristv.co.kr/wp-content/uploads/2019/03/logo.png" group-title="KOREAN TV",Polaris TV (폴라리스TV)
 http://140.238.16.178:9876/stream/channelid/494229570
 #EXTINF:-1 tvg-logo="http://chungxda.github.io/logo/MBC_M.png" group-title="KOREAN TV",MBC M
