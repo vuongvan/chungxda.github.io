@@ -727,8 +727,10 @@ http://211.203.0.244:9981/stream/channelid/784633781
 http://211.203.0.244:9981/stream/channelid/1874916628
 #EXTINF:-1 tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/fa5f101981105100902.png" group-title="KOREAN TV",SBS SPORTS
 http://211.203.0.244:9981/stream/channelid/1821813903
-#EXTINF:-1 tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/fa5f101981105100902.png" group-title="KOREAN TV",SBS SPORTS Online 1 | SBS Original
-http://chungxda.github.io/m3u8/kr/SBSsportsEV1.m3u8
+#EXTINF:-1 tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/fa5f101981105100902.png" group-title="KOREAN TV",SBS SPORTS | SBS Original
+http://chungxda.github.io/m3u8/kr/SBSsports.m3u8
+#EXTINF:-1 tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/fa5f101981105100902.png" group-title="KOREAN TV",SBS EV4 | SBS Original
+http://chungxda.github.io/m3u8/kr/SBSsportsEV4.m3u8
 #EXTINF:-1 tvg-logo="https://www.mbcplus.com/web/images/common/comm_channel07_02.png" group-title="KOREAN TV",MBC SPORTS+
 http://211.203.0.244:9981/stream/channelid/492920879
 #EXTINF:-1 tvg-logo="https://www.spotv.net/images/onair_spotvgolf&health.png" group-title="KOREAN TV",SPOTV Golf & Health
