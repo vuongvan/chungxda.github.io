@@ -619,7 +619,7 @@ http://140.238.16.178:9876/stream/channelid/1089197037
 http://chungxda.github.io/m3u8/kr/KBSKids.m3u8
 #EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/ch_life.png" group-title="KOREAN TV", KBSN Life
 http://140.238.16.178:9876/stream/channelid/1299622285
-#EXTINF:-1 tvg-logo="http://onair.kbs.co.kr/resources/images/ico_ch/ch_t_kbsnlife.svg" group-title="KOREAN TV", KBSN Life | KBS Original
+#EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/ch_life.png" group-title="KOREAN TV", KBSN Life | KBS Original
 http://chungxda.github.io/m3u8/kr/KBSLife.m3u8
 #EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/common/kbsn_plus.png" group-title="KOREAN TV", KBSN PLUS
 http://140.238.16.178:9876/stream/channelid/860060324
