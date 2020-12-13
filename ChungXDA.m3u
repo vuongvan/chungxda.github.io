@@ -587,7 +587,7 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 http://211.203.0.244:9981/stream/channelid/1387682352
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/KBS1.kr.png" group-title="KOREAN TV",KBS1 | KBS Original
 http://chungxda.github.io/m3u8/kr/KBS1.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/kr/KBS2.kr.png" group-title="KOREAN TV",KBS 2
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/KBS2.kr.png" group-title="KOREAN TV",KBS2
 http://211.203.0.244:9981/stream/channelid/430506903
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/KBS2.kr.png" group-title="KOREAN TV",KBS2 | KBS Original
 http://chungxda.github.io/m3u8/kr/KBS2.m3u8
@@ -601,7 +601,7 @@ http://140.238.16.178:9876/stream/channelid/844092932
 http://chungxda.github.io/m3u8/kr/KBSJoy.m3u8.m3u8
 #EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/ch_drama.png" group-title="KOREAN TV",KBS Drama
 http://140.238.16.178:9876/stream/channelid/1763530638
-#EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/ch_drama.png" group-title="KOREAN TV",KBS Drama (KBSN 드라마)| KBS Original
+#EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/ch_drama.png" group-title="KOREAN TV",KBS Drama (KBSN 드라마) | KBS Original
 http://chungxda.github.io/m3u8/kr/KBSDrama.m3u8
 #EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/ch_w.png" group-title="KOREAN TV",KBS W
 http://140.238.16.178:9876/stream/channelid/1940797738
@@ -611,7 +611,7 @@ http://chungxda.github.io/m3u8/kr/KBSW.m3u8
 http://chungxda.github.io/m3u8/kr/KBS24.m3u8
 #EXTINF:-1 tvg-logo="https://www.yonhapnewstv.co.kr/asset/img/common/img_logo_yhntv_navy.png" group-title="KOREAN TV",연합뉴스TV
 http://140.238.16.178:9876/stream/channelid/1089197037
-#EXTINF:-1 tvg-logo="http://onair.kbs.co.kr/resources/images/ico_ch/ch_t_kbskids.svg" group-title="KOREAN TV", KBS Kids | KBS Original
+#EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/ch_kids.png" group-title="KOREAN TV", KBS Kids | KBS Original
 http://chungxda.github.io/m3u8/kr/KBSKids.m3u8
 #EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/ch_life.png" group-title="KOREAN TV", KBSN Life
 http://140.238.16.178:9876/stream/channelid/1299622285
@@ -647,6 +647,8 @@ http://140.238.16.178:9876/stream/channelid/858401363
 http://1.248.219.167/on_preview_500k/_definst_/on_preview_500k.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="KOREAN TV",SBS
 http://140.238.16.178:9876/stream/channelid/495534696
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="KOREAN TV",SBS | SBS Original
+http://chungxda.github.io/m3u8/kr/SBS.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="KOREAN TV",SBS HD
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/SBSPlus.kr.png" group-title="KOREAN TV",SBS PLUS
