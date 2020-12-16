@@ -702,7 +702,7 @@ http://140.238.16.178:9876/stream/channelid/498342416
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/ChannelChina.kr.png" group-title="KOREAN TV",Channel China (채널차이나)
 http://140.238.16.178:9876/stream/channelid/955752588
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/AsiaN.kr.png" group-title="KOREAN TV",Asia N
-http://211.245.55.198:1024/m2u/239.192.64.9:49220
+http://140.238.16.178:9876/stream/channelid/1434956374
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/ChannelW.kr.png" group-title="KOREAN TV",ChannelW (채널W )
 http://140.238.16.178:9876/stream/channelid/1570611993
 #EXTINF:-1 tvg-id="" tvg-logo="https://diatv.cjenm.com/resources/eco/images/main/logo.png" group-title="KOREAN TV",DIA TV
