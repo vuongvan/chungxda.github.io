@@ -364,7 +364,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="cnn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/200px-CNN.svg.png" group-title="QNET",CNN
 http://livecdn.fptplay.net/qnetlive/cnn_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="nhk_world" tvg-logo="https://mytv.com.vn/upload/channel/50.png" group-title="QNET",NHK WORLD JAPAN
-http://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1M.m3u8
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/551.png?rand=829" group-title="QNET",BBC World News
 http://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="bbcearth" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/252.png?rand=576" group-title="QNET",BBC Earth
