@@ -390,6 +390,10 @@ http://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
 #EXTINF:-1 tvg-id="NASA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/160px-NASA_logo.svg.png" group-title="QNET",NASA TV
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
+#EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://static.epg.best/kr/Animax.kr.png" group-title="KIDS & CARTOON",Animax
+https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/108.png?rand=246" group-title="KID",CBeebies
+https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://mytv.com.vn/upload/channel/179.png" group-title="KIDS & CARTOON", CARTOON NETWORK ASIA
 http://livecdn.fptplay.net/qnetlive/cartoonnetworkhd_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="KIDS & CARTOON",Baby First | FPT PLay
