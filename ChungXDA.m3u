@@ -113,18 +113,24 @@ http://113.164.225.140:1935/live/quochoitvlive.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="vovtv" group-title="NEWS" tvg-logo="https://static.mediacdn.vn/vovTV/web_images/vovlogofooter.png",VOV TV
 http://live.truyenhinhdulich.vn/vovlive/tv1live.m3u8
  
-#EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://i.imgur.com/4Uljs81.png",VTC1
+#EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://i.imgur.com/4Uljs81.png",VTC1 | FPT Play
 http://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://i.imgur.com/8Y2vdek.png",VTC2
+#EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://i.imgur.com/4Uljs81.png",VTC1 | VieON
+http://chungxda.github.io/m3u8/VieON/VTC1.m3u8
+#EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://i.imgur.com/8Y2vdek.png",VTC2 | FPT Play
 http://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Icon_355x2003.jpg",VTC3 | FPT Play
 http://livecdn.fptplay.net/hda/vtc3hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Icon_355x2003.jpg",VTC3 HD | VieON
 http://chungxda.github.io/m3u8/VieON/OnSportsHD.m3u8
-#EXTINF:-1 tvg-id="vtc4hd"group-title="VTC" tvg-logo="https://i.imgur.com/v9DNS85.png",VTC4
+#EXTINF:-1 tvg-id="vtc4hd"group-title="VTC" tvg-logo="https://i.imgur.com/v9DNS85.png",VTC4 | FPT Play
 http://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://i.imgur.com/w18H0gU.jpg",VTC5
+#EXTINF:-1 tvg-id="vtc4hd"group-title="VTC" tvg-logo="https://i.imgur.com/v9DNS85.png",VTC4 | VieON
+http://chungxda.github.io/m3u8/VieON/VTC4.m3u8
+#EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://i.imgur.com/w18H0gU.jpg",VTC5 | FPT Play
 http://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://i.imgur.com/w18H0gU.jpg",VTC5 | VieON
+http://chungxda.github.io/m3u8/VieON/VTC5.m3u8
 #EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://i.imgur.com/YasRGy0.png",VTC6
 http://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://imgstatic.vtvcab.vn/logos/TC7_M.png",TODAYTV SD | FPT Play
@@ -136,7 +142,7 @@ http://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://mytv.com.vn/upload/channel/189.png",VTC9 | FPT Play
 http://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://mytv.com.vn/upload/channel/189.png",VTC9 HD | VieON
-http://chungxda.github.io/m3u8/VieON/VTC9HD.m3u8
+http://chungxda.github.io/m3u8/VieON/VTC9.m3u8
 #EXTINF:-1 tvg-id="vtc10hd" group-title="VTC" tvg-logo="https://imgstatic.vtvcab.vn/logos/TC10_M.png",NETVIET TV
 http://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://i.imgur.com/JARfwUf.png",VTC11
@@ -145,10 +151,14 @@ http://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
 http://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://i.imgur.com/hLQNEhy.png",VTC13
 http://livecdn.fptplay.net/sdc/vtc13_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://imgur.com/22TpWVd.png",VTC14
+#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://imgur.com/22TpWVd.png",VTC14 | FPT Play
 http://livecdn.fptplay.net/sdc/vtc14_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 tvg-id="vtc16" group-title="VTC" tvg-logo="https://i.imgur.com/amaDGnw.jpg",VTC16
+#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://imgur.com/22TpWVd.png",VTC14 | VieON
+http://chungxda.github.io/m3u8/VieON/VTC14.m3u8
+#EXTINF:-1 tvg-id="vtc16" group-title="VTC" tvg-logo="https://i.imgur.com/amaDGnw.jpg",VTC16 | FPT Play
 http://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vtc16" group-title="VTC" tvg-logo="https://i.imgur.com/amaDGnw.jpg",VTC16 | VieON
+http://chungxda.github.io/m3u8/VieON/VTC16.m3u8
 
 #EXTINF:-1 tvg-id="sctv1" group-title="SCTV" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV1HD.png",SCTV1 HD - Hài
 http://chungxda.github.io/m3u8/SCTV/SCTV1HD.m3u8
