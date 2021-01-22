@@ -72,13 +72,13 @@ https://chungxda.github.io/m3u8/VTVCab/VTVCab9.m3u8
 https://chungxda.github.io/m3u8/VieON/VieDRAMASHD.m3u8
 #EXTINF:0 tvg-id="vtvcab10hd" group-title="VTVCab" tvg-logo="httpss://imgstatic.vtvcab.vn/logos/D_DRAMAS_HD_M.png" type="stream",VTVCab10 - Vie Dramas SD | TV24 SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://gg.gg/https://gg.gg/VTVCab10SDbyChungXDA
+https://chungxda.github.io/m3u8/VTVCab/VTVCab10.m3u8
 #EXTINF:0 group-title="VTVCab" tvg-logo="httpss://shop-media.vgsshop.vn/pub/media/logo/stores/7/vgsshopLogo.png" type="stream", VTVcab11 - VGS Shop
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://gg.gg/VGSshop
+https://chungxda.github.io/m3u8/VTVCab/VTVCab11.m3u8
 #EXTINF:0 tvg-id="vtvcab12_style_tv" group-title="VTVCab" tvg-logo="httpss://imgstatic.vtvcab.vn/logos/STYLE_TV_HD_M.png" type="stream",VTVCab12 - Style TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://gg.gg/VTVCab12StyleTV
+https://chungxda.github.io/m3u8/VTVCab/VTVCab12.m3u8
 #EXTINF:0 group-title="VTVCab" tvg-logo="https://vtvhyundai.vn/resource/img/logo.png" type="stream",VTVCab13 - VTV Hyundai Homeshopping 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 httpss://livecdn.fptplay.net/sda/vtvhomeshopping_1000.stream/chunklist.m3u8
