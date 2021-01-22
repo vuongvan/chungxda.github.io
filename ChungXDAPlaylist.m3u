@@ -81,22 +81,22 @@ https://chungxda.github.io/m3u8/VTVCab/VTVCab11.m3u8
 https://chungxda.github.io/m3u8/VTVCab/VTVCab12.m3u8
 #EXTINF:0 group-title="VTVCab" tvg-logo="https://vtvhyundai.vn/resource/img/logo.png" type="stream",VTVCab13 - VTV Hyundai Homeshopping 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-httpss://livecdn.fptplay.net/sda/vtvhomeshopping_1000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/sda/vtvhomeshopping_1000.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="vtvcab15" group-title="VTVCab" tvg-logo="httpss://imgstatic.vtvcab.vn/logos/M_CHANNEL_M.png" type="stream",VTVCab15 - UM Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://gg.gg/VTVCab15UMChannel
+https://chungxda.github.io/m3u8/VTVCab/VTVCab15.m3u8
 #EXTINF:0 tvg-id="vtvcab16_bong_da_tv" group-title="VTVCab" tvg-logo="httpss://imgstatic.vtvcab.vn/logos/BONG_DA_TV_SD_M.png" type="stream",VTVCab16 - Bóng Đá TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://gg.gg//VTVCab16SD
+https://chungxda.github.io/m3u8/VTVCab/VTVCab16.m3u8
 #EXTINF:0 tvg-id="vtvcab17_yeah1_tv" group-title="VTVCab" tvg-logo="httpss://imgstatic.vtvcab.vn/logos/YEAH1_TV_M.png" type="stream",VTVCab17 - Yeah1 TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://gg.gg/VTVCab17byChungXDA
+https://chungxda.github.io/m3u8/VTVCab/VTVCab17.m3u8
 #EXTINF:0 tvg-id="vtvcab19_kenh_phim" group-title="VTVCab" tvg-logo="httpss://imgstatic.vtvcab.vn/logos/FILM_TV_M.png" type="stream",VTVCab19 - Film TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://gg.gg/VTVCabFilmTV
+https://chungxda.github.io/m3u8/VTVCab/VTVCab19.m3u8
 #EXTINF:0 tvg-id="vtvcab20_v_family" group-title="VTVCab" tvg-logo="httpss://imgstatic.vtvcab.vn/logos/VFAMILY_M.png" type="stream",VTVCab20 - VFamily
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://gg.gg/VTVCabVFamily
+https://chungxda.github.io/m3u8/VTVCab/VTVCab20.m3u8
 
 
 
