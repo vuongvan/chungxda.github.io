@@ -39,3 +39,64 @@ https://livecdn.fptplay.net/hda/vtv9_2000.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="vtv9hd" tvg-name="VTV9 HD" group-title="VTV" tvg-logo="httpss://mytv.com.vn/upload/channel/117.png" type="stream",VTV9 | AVG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://ott.avg.vn:443/live/vtv9/chunklist_2.m3u8
+
+#EXTINF:0 tvg-id="vtvcab1_giai_tri_tv" group-title="VTVCab" tvg-logo="httpss://imgstatic.vtvcab.vn/logos/GIAITRI_TV_HD_M.png" type="stream",VTVCab1 - Vie Giải Trí | VieON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://chungxda.github.io/m3u8/VieON/VieGIAITRIHD.m3u8
+#EXTINF:0 tvg-id="vtvcab1_giai_tri_tv" group-title="VTVCab" tvg-logo="httpss://imgstatic.vtvcab.vn/logos/GIAITRI_TV_HD_M.png" type="stream",VTVCab1 - Vie Giải Trí | TV24 SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+httpss://chungxda.github.io/m3u8/VTVCab/VTVCab1.m3u8
+#EXTINF:0 tvg-id="vtvcab2_phim_viet" group-title="VTVCab" tvg-logo="httpss://mytv.com.vn/upload/channel/98.png" type="stream",VTVCab2 - Phim Việt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+httpss://chungxda.github.io/m3u8/VTVCab/VTVCab2.m3u8
+#EXTINF:0 tvg-id="vtvcab4" group-title="VTVCab" tvg-logo="httpss://mytv.com.vn/upload/channel/194.png" type="stream",VTVCab4 - Văn Hóa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://gg.gg/VTVCab4byChungXDA
+#EXTINF:0 tvg-id="vtvcab5_e_channel" group-title="VTVCab" tvg-logo="httpss://imgstatic.vtvcab.vn/logos/E_CHANNEL_M.png" type="stream",VTVCab5 - E Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://gg.gg/VTVCab5Echannel
+#EXTINF:0 tvg-id="vtvcab6_haytv" group-title="VTVCab" tvg-logo="httpss://imgstatic.vtvcab.vn/logos/HAY_TV_M.png" type="stream",VTVCab6 - Hay TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://gg.gg/VTVCab6byChungXDA
+#EXTINF:0 group-title="VTVCab" tvg-logo="httpss://rsstv.gviet.vn/sctv/157/984/1569832376891.png" type="stream",VTVCab 7 - Sức Khỏe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://gg.gg/VTVCab7byChungXDA
+#EXTINF:0 tvg-id="vtvcab8_bibi" group-title="VTVCab" tvg-logo="httpss://imgstatic.vtvcab.vn/logos/BIBI_M.png" type="stream",VTVCab8 - BiBi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://gg.gg/VTVCab8BIBITV
+#EXTINF:0 tvg-id="vtvcab9_infotv" group-title="VTVCab" tvg-logo="httpss://imgstatic.vtvcab.vn/logos/INFO_TV_M.png" type="stream",VTVCab9 - Info TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://gg.gg/VTVCabInfoTV
+#EXTINF:0 tvg-id="vtvcab10hd" group-title="VTVCab" tvg-logo="httpss://imgstatic.vtvcab.vn/logos/D_DRAMAS_HD_M.png" type="stream",VTVCab10 - Vie Dramas HD | VieON 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://chungxda.github.io/m3u8/VieON/VieDRAMASHD.m3u8
+#EXTINF:0 tvg-id="vtvcab10hd" group-title="VTVCab" tvg-logo="httpss://imgstatic.vtvcab.vn/logos/D_DRAMAS_HD_M.png" type="stream",VTVCab10 - Vie Dramas SD | TV24 SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://gg.gg/https://gg.gg/VTVCab10SDbyChungXDA
+#EXTINF:0 group-title="VTVCab" tvg-logo="httpss://shop-media.vgsshop.vn/pub/media/logo/stores/7/vgsshopLogo.png" type="stream", VTVcab11 - VGS Shop
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://gg.gg/VGSshop
+#EXTINF:0 tvg-id="vtvcab12_style_tv" group-title="VTVCab" tvg-logo="httpss://imgstatic.vtvcab.vn/logos/STYLE_TV_HD_M.png" type="stream",VTVCab12 - Style TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://gg.gg/VTVCab12StyleTV
+#EXTINF:0 group-title="VTVCab" tvg-logo="https://vtvhyundai.vn/resource/img/logo.png" type="stream",VTVCab13 - VTV Hyundai Homeshopping 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+httpss://livecdn.fptplay.net/sda/vtvhomeshopping_1000.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="vtvcab15" group-title="VTVCab" tvg-logo="httpss://imgstatic.vtvcab.vn/logos/M_CHANNEL_M.png" type="stream",VTVCab15 - UM Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://gg.gg/VTVCab15UMChannel
+#EXTINF:0 tvg-id="vtvcab16_bong_da_tv" group-title="VTVCab" tvg-logo="httpss://imgstatic.vtvcab.vn/logos/BONG_DA_TV_SD_M.png" type="stream",VTVCab16 - Bóng Đá TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://gg.gg//VTVCab16SD
+#EXTINF:0 tvg-id="vtvcab17_yeah1_tv" group-title="VTVCab" tvg-logo="httpss://imgstatic.vtvcab.vn/logos/YEAH1_TV_M.png" type="stream",VTVCab17 - Yeah1 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://gg.gg/VTVCab17byChungXDA
+#EXTINF:0 tvg-id="vtvcab19_kenh_phim" group-title="VTVCab" tvg-logo="httpss://imgstatic.vtvcab.vn/logos/FILM_TV_M.png" type="stream",VTVCab19 - Film TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://gg.gg/VTVCabFilmTV
+#EXTINF:0 tvg-id="vtvcab20_v_family" group-title="VTVCab" tvg-logo="httpss://imgstatic.vtvcab.vn/logos/VFAMILY_M.png" type="stream",VTVCab20 - VFamily
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://gg.gg/VTVCabVFamily
+
+
+
