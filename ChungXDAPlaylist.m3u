@@ -45,16 +45,16 @@ https://ott.avg.vn:443/live/vtv9/chunklist_2.m3u8
 https://chungxda.github.io/m3u8/VieON/VieGIAITRIHD.m3u8
 #EXTINF:0 tvg-id="vtvcab1_giai_tri_tv" group-title="VTVCab" tvg-logo="httpss://imgstatic.vtvcab.vn/logos/GIAITRI_TV_HD_M.png" type="stream",VTVCab1 - Vie Giải Trí | TV24 SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-httpss://chungxda.github.io/m3u8/VTVCab/VTVCab1.m3u8
+https://chungxda.github.io/m3u8/VTVCab/VTVCab1.m3u8
 #EXTINF:0 tvg-id="vtvcab2_phim_viet" group-title="VTVCab" tvg-logo="httpss://mytv.com.vn/upload/channel/98.png" type="stream",VTVCab2 - Phim Việt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 httpss://chungxda.github.io/m3u8/VTVCab/VTVCab2.m3u8
 #EXTINF:0 tvg-id="vtvcab4" group-title="VTVCab" tvg-logo="httpss://mytv.com.vn/upload/channel/194.png" type="stream",VTVCab4 - Văn Hóa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://gg.gg/VTVCab4byChungXDA
+https://chungxda.github.io/m3u8/VTVCab/VTVCab4.m3u8
 #EXTINF:0 tvg-id="vtvcab5_e_channel" group-title="VTVCab" tvg-logo="httpss://imgstatic.vtvcab.vn/logos/E_CHANNEL_M.png" type="stream",VTVCab5 - E Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://gg.gg/VTVCab5Echannel
+https://chungxda.github.io/m3u8/VTVCab/VTVCab5.m3u8
 #EXTINF:0 tvg-id="vtvcab6_haytv" group-title="VTVCab" tvg-logo="httpss://imgstatic.vtvcab.vn/logos/HAY_TV_M.png" type="stream",VTVCab6 - Hay TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://gg.gg/VTVCab6byChungXDA
