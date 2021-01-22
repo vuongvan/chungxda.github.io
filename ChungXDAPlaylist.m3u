@@ -99,4 +99,26 @@ https://chungxda.github.io/m3u8/VTVCab/VTVCab19.m3u8
 https://chungxda.github.io/m3u8/VTVCab/VTVCab20.m3u8
 
 
+#EXTINF:0 tvg-id="antvhd" group-title="NEWS" tvg-logo="httpss://mytv.com.vn/upload/channel/35.png" type="stream",ANTV | FPT Play
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://livecdn.fptplay.net/sdc/anninhtv_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="antvhd" group-title="NEWS" tvg-logo="httpss://mytv.com.vn/upload/channel/35.png" type="stream",ANTV | VieON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://chungxda.github.io/m3u8/VieON/ANTVHD.m3u8
+#EXTINF:0 tvg-id="qpvnhd" group-title="NEWS" tvg-logo="httpss://mytv.com.vn/upload/channel/127.png" type="stream",QPVN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://livecdn.fptplay.net/sdc/quocphongvnhd_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="nhandan" group-title="NEWS" tvg-logo="httpss://mytv.com.vn/upload/channel/128.png" type="stream",NHÂN DÂN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist.m3u8
+#EXTINF:0 tvg-id="ttxvnhd" group-title="NEWS" tvg-logo="httpss://static.mediacdn.vn/vnews/web_images/vnews-logo_2.png" type="stream",VNEWS - Truyền hình TTXVN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://livecdn.fptplay.net/sda/ttxvn_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="quochoi" group-title="NEWS"  tvg-logo="https://quochoitv.vn/images/logo-qhtv.png" type="stream",QUỐC HỘI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://113.164.225.140:1935/live/quochoitvlive.stream_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="vovtv" group-title="NEWS" tvg-logo="httpss://static.mediacdn.vn/vovTV/web_images/vovlogofooter.png" type="stream",VOV TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live.truyenhinhdulich.vn/vovlive/tv1live.m3u8
+
 
