@@ -98,6 +98,27 @@ https://chungxda.github.io/m3u8/VTVCab/VTVCab19.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://chungxda.github.io/m3u8/VTVCab/VTVCab20.m3u8
 
+#EXTINF:0 group-title="AVG" tvg-logo="https://chungxda.github.io/logo/hanoicab4-mov.png" type="stream",Hanoicab4 - MOV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ott.avg.vn/live/mov/chunklist_1.m3u8
+#EXTINF:0 group-title="AVG" tvg-logo="https://truyenhinhavg.vn/wp-content/themes/anvientv/images/chanels/anvien-hd.png" type="stream",An Viên TV (Bchannel) - BTV9 Bình Dương
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ott.avg.vn/live/anvien/chunklist_2.m3u8
+#EXTINF:0 group-title="AVG" tvg-logo="https://chungxda.github.io/logo/avgphimhay.png" type="stream",Phim Hay AVG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ott.avg.vn/live/phimhay/chunklist_1.m3u8
+#EXTINF:0 group-title="AVG" tvg-logo="https://chungxda.github.io/logo/anninhthegioi.png" type="stream", ANTG - Truyền Hình An Ninh Thế Giới
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ott.avg.vn/live/antg/chunklist_1.m3u8
+#EXTINF:0 group-title="AVG" tvg-logo="https://chungxda.github.io/logo/NCM_BTV10.png" type="stream",NCM - BTV10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ott.avg.vn/live/ncm/chunklist_1.m3u8
+#EXTINF:0 group-title="AVG" tvg-logo="https://chungxda.github.io/logo/ANT_BPTV3.png" type="stream",ANT - BPTV3 (Truyền hình Bình Phước 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ott.avg.vn/live/ant-tv/chunklist_1.m3u8
+
+
+
 
 #EXTINF:0 tvg-id="antvhd" group-title="NEWS" tvg-logo="httpss://mytv.com.vn/upload/channel/35.png" type="stream",ANTV | FPT Play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
