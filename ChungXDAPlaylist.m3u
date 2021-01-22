@@ -57,16 +57,16 @@ https://chungxda.github.io/m3u8/VTVCab/VTVCab4.m3u8
 https://chungxda.github.io/m3u8/VTVCab/VTVCab5.m3u8
 #EXTINF:0 tvg-id="vtvcab6_haytv" group-title="VTVCab" tvg-logo="httpss://imgstatic.vtvcab.vn/logos/HAY_TV_M.png" type="stream",VTVCab6 - Hay TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://gg.gg/VTVCab6byChungXDA
+https://chungxda.github.io/m3u8/VTVCab/VTVCab6.m3u8
 #EXTINF:0 group-title="VTVCab" tvg-logo="httpss://rsstv.gviet.vn/sctv/157/984/1569832376891.png" type="stream",VTVCab 7 - Sức Khỏe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://gg.gg/VTVCab7byChungXDA
+https://chungxda.github.io/m3u8/VTVCab/VTVCab7.m3u8
 #EXTINF:0 tvg-id="vtvcab8_bibi" group-title="VTVCab" tvg-logo="httpss://imgstatic.vtvcab.vn/logos/BIBI_M.png" type="stream",VTVCab8 - BiBi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://gg.gg/VTVCab8BIBITV
+https://chungxda.github.io/m3u8/VTVCab/VTVCab8.m3u8
 #EXTINF:0 tvg-id="vtvcab9_infotv" group-title="VTVCab" tvg-logo="httpss://imgstatic.vtvcab.vn/logos/INFO_TV_M.png" type="stream",VTVCab9 - Info TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://gg.gg/VTVCabInfoTV
+https://chungxda.github.io/m3u8/VTVCab/VTVCab9.m3u8
 #EXTINF:0 tvg-id="vtvcab10hd" group-title="VTVCab" tvg-logo="httpss://imgstatic.vtvcab.vn/logos/D_DRAMAS_HD_M.png" type="stream",VTVCab10 - Vie Dramas HD | VieON 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://chungxda.github.io/m3u8/VieON/VieDRAMASHD.m3u8
