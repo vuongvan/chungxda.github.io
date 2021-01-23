@@ -46,7 +46,7 @@ https://chungxda.github.io/m3u8/VieON/VieGIAITRIHD.m3u8
 #EXTINF:0 tvg-id="vtvcab1_giai_tri_tv" group-title="VTVCab" tvg-logo="httpss://imgstatic.vtvcab.vn/logos/GIAITRI_TV_HD_M.png" type="stream",VTVCab1 - Vie Giải Trí | TV24 SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://chungxda.github.io/m3u8/VTVCab/VTVCab1.m3u8
-#EXTINF:0 tvg-id="vtvcab2_phim_viet" group-title="VTVCab" tvg-logo="httpss://mytv.com.vn/upload/channel/98.png" type="stream",VTVCab2 - Phim Việt
+#EXTINF:0 tvg-id="vtvcab3_the_thao_tv" group-title="VTVCab" tvg-logo="httpss://mytv.com.vn/upload/channel/98.png" type="stream",VTVCab2 - Phim Việt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 httpss://chungxda.github.io/m3u8/VTVCab/VTVCab2.m3u8
 #EXTINF:0 tvg-id="vtvcab4" group-title="VTVCab" tvg-logo="httpss://mytv.com.vn/upload/channel/194.png" type="stream",VTVCab3 - Thể Thao TV
