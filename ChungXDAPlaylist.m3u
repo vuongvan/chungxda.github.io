@@ -98,6 +98,81 @@ https://chungxda.github.io/m3u8/VTVCab/VTVCab19.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://chungxda.github.io/m3u8/VTVCab/VTVCab20.m3u8
 
+
+#EXTINF:0 tvg-id="sctv1" group-title="SCTV" tvg-logo="httpss://www.sctv.com.vn/Media/KenhTrai/SCTV1HD.png" type="stream",SCTV1 HD - Hài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://chungxda.github.io/m3u8/SCTV/SCTV1HD.m3u8
+#EXTINF:0 tvg-id="sctv2_amc" group-title="SCTV"  tvg-logo="httpss://chungxda.github.io/logo/SCTV2.png" type="stream",SCTV2 - AMC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://chungxda.github.io/m3u8/SCTV/SCTV2.m3u8
+#EXTINF:0 tvg-id="sctv3_see_tv" group-title="SCTV" tvg-logo="httpss://www.sctv.com.vn/Media/KenhTrai/SCTV3.png" type="stream",SCTV3 HD - SEE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://chungxda.github.io/m3u8/SCTV/SCTV3HD.m3u8
+#EXTINF:0 tvg-id="sctv4" group-title="SCTV" tvg-logo="httpss://www.sctv.com.vn/Media/KenhTrai/SCTV4HD.png" type="stream",SCTV4 HD - Giải Trí Tổng Hợp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://chungxda.github.io/m3u8/SCTV/SCTV4.m3u8
+#EXTINF:0 tvg-id="" group-title="SCTV" tvg-logo="httpss://chungxda.github.io/logo/SCJTV_Shopping.png" type="stream",SCTV5 - SCJ TV Shopping (SCJ Life On)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://chungxda.github.io/m3u8/SCTV/SCTV5.m3u8
+#EXTINF:0 tvg-id="sctv6_hd" group-title="SCTV" tvg-logo="httpss://www.sctv.com.vn/Media/KenhTrai/SCTV6.png" type="stream",SCTV6 - SNTV Thế Hệ Mới
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://chungxda.github.io/m3u8/SCTV/SCTV6.m3u8
+#EXTINF:0 tvg-id="sctv7_hd" group-title="SCTV" tvg-logo="httpss://lh3.googleusercontent.com/-SCFBwogpr2Y/VpxAuIsVb6I/AAAAAAAAASc/Yw5wPfeKj6Y/h120/sctv7.png" type="stream",SCTV7 - Sân Khấu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://chungxda.github.io/m3u8/SCTV/SCTV7.m3u8
+#EXTINF:0 tvg-id="" group-title="SCTV" tvg-logo="httpss://chungxda.github.io/logo/VITV.png" type="stream",SCTV8 - VITV Kinh Tế
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://chungxda.github.io/m3u8/SCTV/SCTV8.m3u8
+#EXTINF:0 tvg-id="sctv9" group-title="SCTV" tvg-logo="httpss://rsstv.gviet.vn/sctv/157/595/1565944648887.png" type="stream",SCTV9 HD - Phim Châu Á
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://chungxda.github.io/m3u8/SCTV/SCTV9HD.m3u8
+#EXTINF:0 tvg-id="sctv10" group-title="SCTV" tvg-logo="https://vtvhyundai.vn/resource/img/logo.png" type="stream",SCTV10 - VTV HYUNDAI HOME SHOPPING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://chungxda.github.io/m3u8/SCTV/SCTV10.m3u8
+#EXTINF:0 tvg-id="sctv11_tv_star" group-title="SCTV" tvg-logo="httpss://www.sctv.com.vn/Media/KenhTrai/SCTV11HD.png" type="stream",SCTV11 HD - STAR (Văn Hoá Nghệ Thuật)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://chungxda.github.io/m3u8/SCTV/SCTV11.m3u8
+#EXTINF:0 tvg-id="sctv12" group-title="SCTV" tvg-logo="httpss://www.sctv.com.vn/Media/KenhTrai/SCTV12HD.png" type="stream",SCTV12 HD - Du Lịch
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://chungxda.github.io/m3u8/SCTV/SCTV12HD.m3u8
+#EXTINF:0 tvg-id="sctv13_lady_tv" group-title="SCTV" tvg-logo="httpss://chungxda.github.io/logo/LadyTV_SCTV13.png" type="stream",SCTV13 - Lady TV (Phụ nữ & Gia đình)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://chungxda.github.io/m3u8/SCTV/SCTV13.m3u8
+#EXTINF:0 tvg-id="sctv14_kenh_phim_viet" group-title="SCTV" tvg-logo="httpss://chungxda.github.io/logo/SCTV14.png" type="stream",SCTV 14 HD - Phim Việt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://chungxda.github.io/m3u8/SCTV/SCTV14HD.m3u8
+#EXTINF:0 tvg-id="sctv15_s_sport_2" group-title="SCTV" tvg-logo="httpss://rsstv.gviet.vn/sctv/157/595/1565944685164.png" type="stream", SCTV15 HD - Ssport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://gg.gg/KENHSCTV15HD
+#EXTINF:0 tvg-id="sctv16" group-title="SCTV" tvg-logo="httpss://www.sctv.com.vn/Media/KenhTrai/SCTV16.png" type="stream",SCTV16 HD - Phim Nước Ngoài Đặc Sắc (Fox Action Movies)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://chungxda.github.io/m3u8/SCTV/SCTV16HD.m3u8
+#EXTINF:0 tvg-id="sctv17_hd" group-title="SCTV" tvg-logo="httpss://rsstv.gviet.vn/sctv/157/595/1565944696688.png" type="stream",SCTV17 HD - Ssport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://gg.gg/KENHSCTV17HD
+#EXTINF:0 tvg-id="sctv18_hd_kenh_18" group-title="SCTV" tvg-logo="httpss://rsstv.gviet.vn/sctv/157/645/1566445843766.png" type="stream", SCTV18 HD - Kênh 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://gg.gg/SCTV18
+#EXTINF:0 tvg-id="sctv19" group-title="SCTV" tvg-logo="httpss://www.sctv.com.vn/Media/KenhPhai/SCTV19HD.png" type="stream", SCTV19 HD - Channel T
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://gg.gg/SCTV19
+#EXTINF:0 tvg-id="" group-title="SCTV" tvg-logo="httpss://www.sctv.com.vn/Media/KenhPhai/SCTV20HD.png" type="stream", SCTV20 HD - Ca Nhạc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://gg.gg/SCTV20
+#EXTINF:0 tvg-id="sctv_phim_tong_hop_hd" group-title="SCTV" tvg-logo="httpss://rsstv.gviet.vn/sctv/157/577/1565767887100.png" type="stream", SCTV HD Phim Tổng Hợp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://gg.gg/SCTVPHIMTONGHOP
+#EXTINF:0 tvg-id="sctv21" group-title="SCTV" tvg-logo="httpss://chungxda.github.io/logo/SCTV21.png" type="stream", SCTV21 - Việt Nam Ký Ức
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://chungxda.github.io/m3u8/SCTV/SCTV21HD.m3u8
+#EXTINF:0 tvg-id="" group-title="SCTV" tvg-logo="httpss://upload.wikimedia.org/wikipedia/vi/b/b0/Biểu_trưng_SCTV.png" type="stream", SCTV22 HD - Ssport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://gg.gg/SCTV22
+#EXTINF:0 tvg-id="" group-title="SCTV" tvg-logo="httpss://vignette.wikia.nocookie.net/logopedia/images/c/c2/BTV5.png/revision/latest?cb=20200902111930" type="stream",BTV5 - Ssport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://gg.gg/btv5ssport3
+
+
 #EXTINF:0 tvg-id="vtc1hd" group-title="VTC" tvg-logo="httpss://i.imgur.com/4Uljs81.png" type="stream",VTC1 | FPT Play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8
