@@ -143,7 +143,7 @@ https://chungxda.github.io/m3u8/SCTV/SCTV13.m3u8
 https://chungxda.github.io/m3u8/SCTV/SCTV14HD.m3u8
 #EXTINF:0 tvg-id="sctv15_s_sport_2" group-title="SCTV" tvg-logo="httpss://rsstv.gviet.vn/sctv/157/595/1565944685164.png" type="stream", SCTV15 HD - Ssport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://gg.gg/KENHSCTV15HD
+https://chungxda.github.io/m3u8/SCTV/SCTV15.m3u8
 #EXTINF:0 tvg-id="sctv16" group-title="SCTV" tvg-logo="httpss://www.sctv.com.vn/Media/KenhTrai/SCTV16.png" type="stream",SCTV16 HD - Phim Nước Ngoài Đặc Sắc (Fox Action Movies)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://chungxda.github.io/m3u8/SCTV/SCTV16HD.m3u8
