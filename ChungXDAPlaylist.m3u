@@ -249,7 +249,12 @@ https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://chungxda.github.io/m3u8/VieON/VTC16.m3u8
 
-
+#EXTINF:0 group-title="AVG" tvg-logo="https://chungxda.github.io/logo/hanoicab1-hitv.png" type="stream",Hanoicab1 - HiTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://chungxda.github.io/m3u8/Hanoicab1.m3u8
+#EXTINF:0 group-title="AVG" tvg-logo="https://chungxda.github.io/logo/hanoicab2-youtv.png" type="stream",Hanoicab2 - YouTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://chungxda.github.io/m3u8/Hanoicab2.m3u8
 #EXTINF:0 group-title="AVG" tvg-logo="https://chungxda.github.io/logo/hanoicab4-mov.png" type="stream",Hanoicab4 - MOV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://chungxda.github.io/m3u8/Hanoicab4.m3u8
