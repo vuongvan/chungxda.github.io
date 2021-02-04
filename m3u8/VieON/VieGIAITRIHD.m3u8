@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=65000
-https://hni-fpt-001-livecdn-vthn-vnd.vieon.vn/92c06f2e0dcb51cadd7effab51775dce/1611417017232/vtvcab/live/hd_vtvcab_1_test/TV_HD/hd_vtvcab_1_test_1080p/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3628000,RESOLUTION=1920x1080
+https://live-vthn.vieon.vn/vtvcab/live/hd_vtvcab_1_test/TV_HD/hd_vtvcab_1_test_1080p/chunks.m3u8
