@@ -125,7 +125,7 @@ https://chungxda.github.io/m3u8/SCTV/SCTV4.m3u8
 https://chungxda.github.io/m3u8/SCTV/SCTV5.m3u8
 #EXTINF:0 tvg-id="sctv6_hd" group-title="SCTV" tvg-logo="httpss://www.sctv.com.vn/Media/KenhTrai/SCTV6.png" type="stream",SCTV6 - SNTV Thế Hệ Mới
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://chungxda.github.io/m3u8/SCTV/SCTV6.m3u8
+https://chungxda.github.io/m3u8/SCTV/SCTV6HD.m3u8
 #EXTINF:0 tvg-id="sctv7_hd" group-title="SCTV" tvg-logo="httpss://lh3.googleusercontent.com/-SCFBwogpr2Y/VpxAuIsVb6I/AAAAAAAAASc/Yw5wPfeKj6Y/h120/sctv7.png" type="stream",SCTV7 - Sân Khấu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://chungxda.github.io/m3u8/SCTV/SCTV7.m3u8
@@ -140,7 +140,7 @@ https://chungxda.github.io/m3u8/SCTV/SCTV9HD.m3u8
 https://chungxda.github.io/m3u8/SCTV/SCTV10.m3u8
 #EXTINF:0 tvg-id="sctv11_tv_star" group-title="SCTV" tvg-logo="httpss://www.sctv.com.vn/Media/KenhTrai/SCTV11HD.png" type="stream",SCTV11 HD - STAR (Văn Hoá Nghệ Thuật)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://chungxda.github.io/m3u8/SCTV/SCTV11.m3u8
+https://chungxda.github.io/m3u8/SCTV/SCTV11HD.m3u8
 #EXTINF:0 tvg-id="sctv12" group-title="SCTV" tvg-logo="httpss://www.sctv.com.vn/Media/KenhTrai/SCTV12HD.png" type="stream",SCTV12 HD - Du Lịch
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://chungxda.github.io/m3u8/SCTV/SCTV12HD.m3u8
@@ -158,13 +158,13 @@ https://chungxda.github.io/m3u8/SCTV/SCTV15.m3u8
 https://chungxda.github.io/m3u8/SCTV/SCTV16HD.m3u8
 #EXTINF:0 tvg-id="sctv17_hd" group-title="SCTV" tvg-logo="httpss://rsstv.gviet.vn/sctv/157/595/1565944696688.png" type="stream",SCTV17 HD - Ssport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://gg.gg/KENHSCTV17HD
+https://chungxda.github.io/m3u8/SCTV/SCTV17HD.m3u8
 #EXTINF:0 tvg-id="sctv18_hd_kenh_18" group-title="SCTV" tvg-logo="httpss://rsstv.gviet.vn/sctv/157/645/1566445843766.png" type="stream", SCTV18 HD - Kênh 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://gg.gg/SCTV18
+https://chungxda.github.io/m3u8/SCTV/SCTV18.m3u8
 #EXTINF:0 tvg-id="sctv19" group-title="SCTV" tvg-logo="httpss://www.sctv.com.vn/Media/KenhPhai/SCTV19HD.png" type="stream", SCTV19 HD - Channel T
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://gg.gg/SCTV19
+https://chungxda.github.io/m3u8/SCTV/SCTV19.m3u8
 #EXTINF:0 tvg-id="" group-title="SCTV" tvg-logo="httpss://www.sctv.com.vn/Media/KenhPhai/SCTV20HD.png" type="stream", SCTV20 HD - Ca Nhạc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://gg.gg/SCTV20
@@ -176,7 +176,7 @@ https://chungxda.github.io/m3u8/SCTV/SCTVHDPhimTH.m3u8
 https://chungxda.github.io/m3u8/SCTV/SCTV21HD.m3u8
 #EXTINF:0 tvg-id="" group-title="SCTV" tvg-logo="httpss://upload.wikimedia.org/wikipedia/vi/b/b0/Biểu_trưng_SCTV.png" type="stream", SCTV22 HD - Ssport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://gg.gg/SCTV22
+https://chungxda.github.io/m3u8/SCTV/SCTV22.m3u8
 #EXTINF:0 tvg-id="" group-title="SCTV" tvg-logo="httpss://vignette.wikia.nocookie.net/logopedia/images/c/c2/BTV5.png/revision/latest?cb=20200902111930" type="stream",BTV5 - Ssport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://gg.gg/btv5ssport3
