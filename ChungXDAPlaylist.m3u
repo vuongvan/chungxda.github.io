@@ -149,7 +149,7 @@ https://chungxda.github.io/m3u8/SCTV/SCTV12HD.m3u8
 https://chungxda.github.io/m3u8/SCTV/SCTV13.m3u8
 #EXTINF:0 tvg-id="sctv14_kenh_phim_viet" group-title="SCTV" tvg-logo="httpss://chungxda.github.io/logo/SCTV14.png" type="stream",SCTV 14 HD - Phim Việt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://vtsstr3.tv24.vn:443/elive/_definst_/smil:SCTV_HD_PhimViet_new.smil/chunklist_w1711079983_b2692000.m3u8?uid=w224d444x2c474z584x506&t_end=o4i5u5h514442354v27484v2w233z2&p_form=s335l4x4f3&s_count=s335l4x4f3e5y2&mytokenstarttime=1612663459&mytokenendtime=1612706959&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
+https://chungxda.github.io/m3u8/SCTV/SCTV14HD.m3u8
 #EXTINF:0 tvg-id="sctv15_s_sport_2" group-title="SCTV" tvg-logo="httpss://rsstv.gviet.vn/sctv/157/595/1565944685164.png" type="stream", SCTV15 HD - Ssport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://chungxda.github.io/m3u8/SCTV/SCTV15.m3u8
