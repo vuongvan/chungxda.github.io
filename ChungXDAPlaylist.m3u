@@ -110,19 +110,19 @@ https://chungxda.github.io/m3u8/VTVCab/VTVCab20.m3u8
 
 #EXTINF:0 tvg-id="sctv1" group-title="SCTV" tvg-logo="httpss://www.sctv.com.vn/Media/KenhTrai/SCTV1HD.png" type="stream",SCTV1 HD - Hài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://bom.to/sctv1hd
+https://chungxda.github.io/m3u8/SCTV/SCTV1HD.m3u8
 #EXTINF:0 tvg-id="sctv2_amc" group-title="SCTV"  tvg-logo="httpss://chungxda.github.io/logo/SCTV2.png" type="stream",SCTV2 - AMC TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://bom.to/sctv2sd
+https://chungxda.github.io/m3u8/SCTV/SCTV2.m3u8
 #EXTINF:0 tvg-id="sctv3_see_tv" group-title="SCTV" tvg-logo="httpss://www.sctv.com.vn/Media/KenhTrai/SCTV3.png" type="stream",SCTV3 HD - SEE TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://bom.to/sctv3hd
+https://chungxda.github.io/m3u8/SCTV/SCTV3HD.m3u8
 #EXTINF:0 tvg-id="sctv4" group-title="SCTV" tvg-logo="httpss://www.sctv.com.vn/Media/KenhTrai/SCTV4HD.png" type="stream",SCTV4 HD - Giải Trí Tổng Hợp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://bom.to/sctv4sd
+https://chungxda.github.io/m3u8/SCTV/SCTV4.m3u8
 #EXTINF:0 tvg-id="" group-title="SCTV" tvg-logo="httpss://chungxda.github.io/logo/SCJTV_Shopping.png" type="stream",SCTV5 - SCJ TV Shopping (SCJ Life On)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://bom.to/sctv5sd
+https://chungxda.github.io/m3u8/SCTV/SCTV5.m3u8
 #EXTINF:0 tvg-id="sctv6_hd" group-title="SCTV" tvg-logo="httpss://www.sctv.com.vn/Media/KenhTrai/SCTV6.png" type="stream",SCTV6 - SNTV Thế Hệ Mới
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://chungxda.github.io/m3u8/SCTV/SCTV6HD.m3u8
