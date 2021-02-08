@@ -42,7 +42,7 @@ https://ott.avg.vn:443/live/vtv9/chunklist_2.m3u8
 
 #EXTINF:0 tvg-id="vtvcab1_giai_tri_tv" group-title="VTVCab" tvg-logo="httpss://imgstatic.vtvcab.vn/logos/GIAITRI_TV_HD_M.png" type="stream",VTVCab1 - Vie Giải Trí | VieON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://chungxda.github.io/m3u8/VieON/VieGIAITRIHD.m3u8
+https://bom.to/VieGIAITRIHD.m3u8
 #EXTINF:0 tvg-id="vtvcab1_giai_tri_tv" group-title="VTVCab" tvg-logo="httpss://imgstatic.vtvcab.vn/logos/GIAITRI_TV_HD_M.png" type="stream",VTVCab1 - Vie Giải Trí | TV24 SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://chungxda.github.io/m3u8/VTVCab/VTVCab1.m3u8
@@ -72,7 +72,7 @@ https://chungxda.github.io/m3u8/VTVCab/VTVCab8.m3u8
 https://chungxda.github.io/m3u8/VTVCab/VTVCab9.m3u8
 #EXTINF:0 tvg-id="vtvcab10hd" group-title="VTVCab" tvg-logo="httpss://imgstatic.vtvcab.vn/logos/D_DRAMAS_HD_M.png" type="stream",VTVCab10 - Vie Dramas HD | VieON 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://chungxda.github.io/m3u8/VieON/VieDRAMASHD.m3u8
+https://bom.to/VieDRAMASHD
 #EXTINF:0 tvg-id="vtvcab10hd" group-title="VTVCab" tvg-logo="httpss://imgstatic.vtvcab.vn/logos/D_DRAMAS_HD_M.png" type="stream",VTVCab10 - Vie Dramas SD | TV24 SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://chungxda.github.io/m3u8/VTVCab/VTVCab10.m3u8
