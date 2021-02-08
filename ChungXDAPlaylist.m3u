@@ -167,7 +167,7 @@ https://chungxda.github.io/m3u8/SCTV/SCTV18.m3u8
 https://chungxda.github.io/m3u8/SCTV/SCTV19.m3u8
 #EXTINF:0 tvg-id="" group-title="SCTV" tvg-logo="httpss://www.sctv.com.vn/Media/KenhPhai/SCTV20HD.png" type="stream", SCTV20 HD - Ca Nhạc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://gg.gg/SCTV20
+https://chungxda.github.io/m3u8/SCTV/SCTV20.m3u8
 #EXTINF:0 tvg-id="sctv_phim_tong_hop_hd" group-title="SCTV" tvg-logo="httpss://rsstv.gviet.vn/sctv/157/577/1565767887100.png" type="stream", SCTV HD Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://bom.to/sctvphimtonghopsd
